@@ -1,0 +1,1397 @@
+From: <ÓÉ Microsoft Internet Explorer 5 ±£´æ>
+Subject: =?gb2312?B?tefX07y8yvXM7LXYLS0+yv3X1tL07my5psLKt8W088b3tcTX6bPJus231sDg?=
+Date: Thu, 9 Sep 2004 11:28:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01C49660.2DB749B0";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dzjs.com/list.asp?id=1186
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>=B5=E7=D7=D3=BC=BC=CA=F5=CC=EC=B5=D8-->=CA=FD=D7=D6=D2=
+=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=B5=C4=D7=E9=B3=C9=BA=CD=B7=D6=C0=E0=
+</TITLE>
+<SCRIPT language=3DJavaScript>
+var currentpos,timer;
+
+function initialize()
+{
+timer=3DsetInterval("scrollwindow()",50);
+}
+function sc(){
+clearInterval(timer);
+}
+function scrollwindow()
+{
+currentpos=3Ddocument.body.scrollTop;
+window.scroll(0,++currentpos);
+if (currentpos !=3D document.body.scrollTop)
+sc();
+}
+document.onmousedown=3Dsc
+document.ondblclick=3Dinitialize
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+var m_textcolor,m_fontsize,m_bkcolor;
+m_textcolor=3D'#000000';
+m_fontsize=3D'9 pt';
+m_bkcolor=3D'#ffffff';
+getit();
+function getit()
+{
+var str=3Ddocument.cookie;
+i=3Dstr.indexOf('km169edujc1=3D');
+if(i=3D=3D-1)return;
+str=3Dstr.substring(i+12);
+str1=3Dstr.split('&');
+m_textcolor=3Dstr1[0];
+m_bkcolor=3Dstr1[1];
+m_fontsize=3Dstr1[2];
+}
+function saveit()
+{
+var expires=3Dnew Date();
+alert("=C9=E8=D6=C3=D2=D1=B1=BB=B1=A3=B4=E6!");
+expires.setTime(expires.getTime()-1);
+document.cookie=3D'km169edujc1=3D;path=3D;expires=3D'+expires.toGMTString=
+()+";";
+expires.setTime(expires.getTime()+24*60*60*365*1000);
+document.cookie=3D'km169edujc1=3D'+m_textcolor+'&'+m_bkcolor+'&'+m_fontsi=
+ze+'&;path=3D/;expires=3D'+expires.toGMTString()+";";
+}
+function setBgColor(color)
+{
+if(color=3D=3D"none")
+return;
+window.thetd.bgColor=3Dcolor;
+m_bkcolor=3Dcolor;
+}
+function setFontSize(size)
+{
+if(size=3D=3D"none")
+return;
+window.thetd.style.fontSize=3Dsize;
+m_fontsize=3Dsize;
+}
+function setFontColor(color)
+{
+if(color=3D=3D"none")
+return;
+window.thetd.style.color=3Dcolor;
+m_textcolor=3Dcolor;
+}
+function MM_preloadImages() { //v3.0
+var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)
+if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;
+}
+function MM_swapImage() { //v3.0
+var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; =
+for(i=3D0;i<(a.length-2);i+=3D3)
+if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; if(!x.oSrc) =
+x.oSrc=3Dx.src; x.src=3Da[i+2];}
+}
+function proc_show(what)
+{
+switch(what)
+{
+case 'home':
+MM_swapImage('h','','images/re_write.gif.png',1)
+break;
+}
+}
+function MM_showHideLayers() { //v3.0
+var i,p,v,obj,args=3DMM_showHideLayers.arguments;
+for (i=3D0; i<(args.length-2); i+=3D3) if =
+((obj=3DMM_findObj(args[i]))!=3Dnull) { v=3Dargs[i+2];
+if (obj.style) { obj=3Dobj.style; =
+v=3D(v=3D=3D'show')?'visible':(v=3D'hide')?'hidden':v; }
+obj.visibility=3Dv; }
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=3Ddocument.getElementById(n); =
+return x;
+}
+//-->
+</SCRIPT>
+
+<STYLE>.skin0 {
+	BACKGROUND-COLOR: menu; BORDER-BOTTOM: black 2px solid; BORDER-LEFT: =
+black 2px solid; BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px =
+solid; CURSOR: default; FONT-FAMILY: Verdana; LINE-HEIGHT: 20px; =
+POSITION: absolute; TEXT-ALIGN: left; VISIBILITY: hidden; WIDTH: 130px
+}
+.skin1 {
+	BACKGROUND-COLOR: menu; BORDER-BOTTOM: buttonhighlight 2px outset; =
+BORDER-LEFT: buttonhighlight 2px outset; BORDER-RIGHT: buttonhighlight =
+2px outset; BORDER-TOP: buttonhighlight 2px outset; CURSOR: default; =
+FONT-FAMILY: =CB=CE=CC=E5, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; =
+POSITION: absolute; TEXT-ALIGN: left; VISIBILITY: hidden; WIDTH: 110px
+}
+.menuitems {
+	PADDING-LEFT: 15px; PADDING-RIGHT: 10px
+}
+</STYLE>
+
+<SCRIPT language=3DJavaScript1.2>
+<!-- Begin
+var menuskin =3D "skin1"; // skin0, or skin1
+var display_url =3D 0; // Show URLs in status bar?
+function showmenuie5() {
+var rightedge =3D document.body.clientWidth-event.clientX;
+var bottomedge =3D document.body.clientHeight-event.clientY;
+if (rightedge < ie5menu.offsetWidth)
+ie5menu.style.left =3D document.body.scrollLeft + event.clientX - =
+ie5menu.offsetWidth;
+else
+ie5menu.style.left =3D document.body.scrollLeft + event.clientX;
+if (bottomedge < ie5menu.offsetHeight)
+ie5menu.style.top =3D document.body.scrollTop + event.clientY - =
+ie5menu.offsetHeight;
+else
+ie5menu.style.top =3D document.body.scrollTop + event.clientY;
+ie5menu.style.visibility =3D "visible";
+return false;
+}
+function hidemenuie5() {
+ie5menu.style.visibility =3D "hidden";
+}
+function highlightie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+event.srcElement.style.backgroundColor =3D "highlight";
+event.srcElement.style.color =3D "white";
+if (display_url)
+window.status =3D event.srcElement.url;
+}
+}
+function lowlightie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+event.srcElement.style.backgroundColor =3D "";
+event.srcElement.style.color =3D "black";
+window.status =3D "";
+}
+}
+function jumptoie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+if (event.srcElement.getAttribute("target") !=3D null)
+window.open(event.srcElement.url, =
+event.srcElement.getAttribute("target"));
+else
+window.location =3D event.srcElement.url;
+}
+}
+// End -->
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if =
+((appName=3D=3D"Netscape")&&(parseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; =
+onresize=3DMM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || =
+innerHeight!=3Ddocument.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+function addToFavorite(favTitle){
+if ((navigator.appVersion.indexOf("MSIE") > 0) && =
+(parseInt(navigator.appVersion) >=3D 4)) {
+window.external.AddFavorite(location.href, unescape(favTitle));
+}
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+function na_open_window(name, url, left, top, width, height, toolbar, =
+menubar, statusbar, scrollbar, resizable)
+{
+  toolbar_str =3D toolbar ? 'yes' : 'no';
+  menubar_str =3D menubar ? 'yes' : 'no';
+  statusbar_str =3D statusbar ? 'yes' : 'no';
+  scrollbar_str =3D scrollbar ? 'yes' : 'no';
+  resizable_str =3D resizable ? 'yes' : 'no';
+  window.open(url, name, =
+'left=3D'+left+',top=3D'+top+',width=3D'+width+',height=3D'+height+',tool=
+bar=3D'+toolbar_str+',menubar=3D'+menubar_str+',status=3D'+statusbar_str+=
+',scrollbars=3D'+scrollbar_str+',resizable=3D'+resizable_str);
+}
+
+// -->
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+var m_textcolor,m_fontsize,m_bkcolor;
+m_textcolor=3D'#000000';
+m_fontsize=3D'9 pt';
+m_bkcolor=3D'#ffffff';
+getit();
+function getit()
+{
+var str=3Ddocument.cookie;
+i=3Dstr.indexOf('km169edujc1=3D');
+if(i=3D=3D-1)return;
+str=3Dstr.substring(i+12);
+str1=3Dstr.split('&');
+m_textcolor=3Dstr1[0];
+m_bkcolor=3Dstr1[1];
+m_fontsize=3Dstr1[2];
+}
+function saveit()
+{
+var expires=3Dnew Date();
+alert("=C9=E8=D6=C3=D2=D1=B1=BB=B1=A3=B4=E6!");
+expires.setTime(expires.getTime()-1);
+document.cookie=3D'km169edujc1=3D;path=3D;expires=3D'+expires.toGMTString=
+()+";";
+expires.setTime(expires.getTime()+24*60*60*365*1000);
+document.cookie=3D'km169edujc1=3D'+m_textcolor+'&'+m_bkcolor+'&'+m_fontsi=
+ze+'&;path=3D/;expires=3D'+expires.toGMTString()+";";
+}
+function setBgColor(color)
+{
+if(color=3D=3D"none")
+return;
+window.thetd.bgColor=3Dcolor;
+m_bkcolor=3Dcolor;
+}
+function setFontSize(size)
+{
+if(size=3D=3D"none")
+return;
+window.thetd.style.fontSize=3Dsize;
+m_fontsize=3Dsize;
+}
+function setFontColor(color)
+{
+if(color=3D=3D"none")
+return;
+window.thetd.style.color=3Dcolor;
+m_textcolor=3Dcolor;
+}
+function MM_preloadImages() { //v3.0
+var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)
+if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;
+}
+function MM_swapImage() { //v3.0
+var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; =
+for(i=3D0;i<(a.length-2);i+=3D3)
+if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; if(!x.oSrc) =
+x.oSrc=3Dx.src; x.src=3Da[i+2];}
+}
+function proc_show(what)
+{
+switch(what)
+{
+case 'home':
+MM_swapImage('h','','images/re_write.gif.png',1)
+break;
+}
+}
+function MM_showHideLayers() { //v3.0
+var i,p,v,obj,args=3DMM_showHideLayers.arguments;
+for (i=3D0; i<(args.length-2); i+=3D3) if =
+((obj=3DMM_findObj(args[i]))!=3Dnull) { v=3Dargs[i+2];
+if (obj.style) { obj=3Dobj.style; =
+v=3D(v=3D=3D'show')?'visible':(v=3D'hide')?'hidden':v; }
+obj.visibility=3Dv; }
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=3Ddocument.getElementById(n); =
+return x;
+}
+//-->
+</SCRIPT>
+<!--
+.skin0 {
+position:absolute;
+text-align:left;
+width:130px;
+border:2px solid black;
+background-color:menu;
+font-family:Verdana;
+line-height:20px;
+cursor:default;
+visibility:hidden;
+}
+.skin1 {
+cursor:default;
+font:menutext;
+position:absolute;
+text-align:left;
+font-family: =CB=CE=CC=E5, Arial, Helvetica, sans-serif;
+font-size: 9pt;
+width:110px;
+background-color:menu;
+border:1 solid buttonface;
+visibility:hidden;
+border:2 outset buttonhighlight;
+}
+.menuitems {
+padding-left:15px;
+padding-right:10px;
+}
+-->
+<SCRIPT language=3DJavaScript1.2>
+<!-- Begin
+var menuskin =3D "skin1"; // skin0, or skin1
+var display_url =3D 0; // Show URLs in status bar?
+function showmenuie5() {
+var rightedge =3D document.body.clientWidth-event.clientX;
+var bottomedge =3D document.body.clientHeight-event.clientY;
+if (rightedge < ie5menu.offsetWidth)
+ie5menu.style.left =3D document.body.scrollLeft + event.clientX - =
+ie5menu.offsetWidth;
+else
+ie5menu.style.left =3D document.body.scrollLeft + event.clientX;
+if (bottomedge < ie5menu.offsetHeight)
+ie5menu.style.top =3D document.body.scrollTop + event.clientY - =
+ie5menu.offsetHeight;
+else
+ie5menu.style.top =3D document.body.scrollTop + event.clientY;
+ie5menu.style.visibility =3D "visible";
+return false;
+}
+function hidemenuie5() {
+ie5menu.style.visibility =3D "hidden";
+}
+function highlightie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+event.srcElement.style.backgroundColor =3D "highlight";
+event.srcElement.style.color =3D "white";
+if (display_url)
+window.status =3D event.srcElement.url;
+}
+}
+function lowlightie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+event.srcElement.style.backgroundColor =3D "";
+event.srcElement.style.color =3D "black";
+window.status =3D "";
+}
+}
+function jumptoie5() {
+if (event.srcElement.className =3D=3D "menuitems") {
+if (event.srcElement.getAttribute("target") !=3D null)
+window.open(event.srcElement.url, =
+event.srcElement.getAttribute("target"));
+else
+window.location =3D event.srcElement.url;
+}
+}
+// End -->
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if =
+((appName=3D=3D"Netscape")&&(parseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; =
+onresize=3DMM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || =
+innerHeight!=3Ddocument.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</SCRIPT>
+
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<META =
+content=3D"=B5=E7=D7=D3=D6=AA=CA=B6,=B5=E7=D7=D3=BC=BC=CA=F5,=B5=E7=D7=D3=
+=D4=AA=BC=FE,=B5=E7=D7=D3=B5=E7=C2=B7=A1=A2=B5=E7=D7=D3=D6=C6=D7=F7,=B5=E7=
+=C6=F7=CE=AC=D0=DE,=BC=D2=B5=E7=CE=AC=D0=DE>&#13;&#10;<meta name=3D"=20
+name=3DKEYWORDS DESCRIPTION?><LINK =
+href=3D"http://www.dzjs.com/content.css"=20
+rel=3Dstylesheet>
+<META content=3D"MSHTML 5.00.2920.0" name=3DGENERATOR></HEAD>
+<BODY aLink=3D#990000 leftMargin=3D0 link=3D#990000 text=3D#000000 =
+topMargin=3D0=20
+vLink=3D#990000 marginwidth=3D"0" marginheight=3D"0">
+<TABLE align=3Dcenter bgColor=3D#ffffff border=3D0 cellPadding=3D0 =
+cellSpacing=3D0=20
+width=3D760 valign=3D"top">
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle><IMG border=3D1 height=3D60=20
+      src=3D"http://www.dzjs.com/images/logo.gif" width=3D468></TD></TR>
+  <TR>
+    <TD align=3Dleft height=3D30><A=20
+      =
+href=3D"http://www.dzjs.com/default.asp">=B5=E7=D7=D3=BC=BC=CA=F5=CC=EC=B5=
+=D8</A> &gt;&gt; <FONT=20
+      color=3Dblack>=CA=B5=D1=E9=D6=C6=D7=F7 &gt;&gt; =
+=CA=D5=C2=BC=C0=A9=D2=F4&gt;&gt;</FONT><B><FONT=20
+      =
+color=3D#ff9900>=CA=FD=D7=D6=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=B5=C4=
+=D7=E9=B3=C9=BA=CD=B7=D6=C0=E0</FONT></B></TD></TR>
+  <TR>
+    <TD align=3Dleft height=3D30><A href=3D"http://www.dzjs.com/"><IMG =
+border=3D0=20
+      height=3D8 src=3D"http://www.dzjs.com/images/tritip.gif" =
+width=3D8></A> <FONT=20
+      color=3Dblack style=3D"LINE-HEIGHT: =
+150%">=CC=ED=BC=D3=C8=CB=A3=BA</FONT><A=20
+      =
+href=3D"javascript:na_open_window('win',%20'dispuser.asp?name=3Dshanqi', =
+0, 0, 350, 300, 0, 0, 0, 1, 0)"=20
+      target=3D_self title=3D"=B2=E9=BF=B4 shanqi =
+=B5=C4=B8=F6=C8=CB=D7=CA=C1=CF"> <FONT=20
+      color=3D#6600ff>shanqi</FONT></A>&nbsp; =
+=C2=BC=C8=EB=C8=D5=C6=DA:2004-6-11&nbsp;=D4=C4=B6=C1=A3=BA2533 =B4=CE=20
+      =
+&nbsp;=CE=C4=D5=C2=C0=B4=D4=B4=A3=BA&nbsp;=D4=AD=D7=F7=D5=DF=A3=BA&nbsp;&=
+nbsp;<FONT color=3Dblack> =
+=B9=D8=BC=FC=B4=CA=A3=BA=D2=F4=CF=EC=BC=BC=CA=F5</FONT> </TD></TR>
+  <TR>
+    <TD background=3Dhttp://www.dzjs.com/images/page_navtiler.gif=20
+height=3D1></TD></TR>
+  <TR>
+    <TD height=3D1></TD></TR>
+  <TR>
+    <TD background=3Dhttp://www.dzjs.com/images/page_navtiler.gif=20
+height=3D1></TD></TR>
+  <TR>
+    <TD align=3Dmiddle vAlign=3Dtop>
+      <TABLE align=3Dcenter border=3D0 borderColorDark=3D#ffffff=20
+      borderColorLight=3D#555555 cellPadding=3D0 cellSpacing=3D0 =
+width=3D700>
+        <TBODY>
+        <TR align=3Dleft vAlign=3Dcenter>
+          <TD height=3D14 vAlign=3Dtop width=3D700><FONT =
+size=3D2>=CE=C4=D7=D6=D1=A1=CF=EE <SELECT=20
+            name=3Dseltextcolor onchange=3DsetFontColor(this.value);=20
+            style=3D"HEIGHT: 20px; WIDTH: 60px; fontsize: 9pt"> <OPTION =
+selected=20
+              value=3D#000000>=BA=DA=C9=AB</OPTION> <OPTION =
+value=3D#FFFFFF>=B0=D7=C9=AB</OPTION>=20
+              <OPTION value=3D#FF0000>=BA=EC=C9=AB</OPTION> <OPTION=20
+              value=3D#555555>=BB=D2=C9=AB</OPTION> <OPTION =
+value=3D#00FF00>=C2=CC=C9=AB</OPTION>=20
+              <OPTION value=3D#0000FF>=C0=B6=C9=AB</OPTION> <OPTION=20
+              value=3D#00cccc>=C7=E0=C9=AB</OPTION> <OPTION =
+value=3D#ffff00>=BB=C6=C9=AB</OPTION></SELECT>=20
+            =B1=B3=BE=B0=D1=A1=CF=EE <SELECT name=3Dselbkcolor =
+onchange=3DsetBgColor(this.value);=20
+            style=3D"HEIGHT: 20px; WIDTH: 60px; fontsize: 9pt"> <OPTION =
+selected=20
+              value=3D#EDF0F5>=BB=D2=C9=AB</OPTION> <OPTION =
+value=3D#000000>=BA=DA=C9=AB</OPTION>=20
+              <OPTION value=3D#FFCCFF>=B7=DB=BA=EC</OPTION> <OPTION=20
+              value=3D#FFFFFF>=B0=D7=C9=AB</OPTION> <OPTION =
+value=3D#CCFFCC>=C2=CC=C9=AB</OPTION>=20
+              <OPTION value=3D#99CCFF>=C0=B6=C9=AB</OPTION> <OPTION=20
+              value=3D#CCFFFF>=C7=E0=C9=AB</OPTION> <OPTION =
+value=3D#FFCCCC>=D7=DB=C9=AB</OPTION></SELECT>=20
+            =D7=D6=BA=C5=B4=F3=D0=A1 <SELECT name=3Dselfontsize =
+onchange=3DsetFontSize(this.value);=20
+            style=3D"HEIGHT: 20px; WIDTH: 60px; fontsize: 9pt"> <OPTION =
+selected=20
+              value=3D9pt>9 pt</OPTION> <OPTION value=3D10pt>10 =
+pt</OPTION> <OPTION=20
+              value=3D12pt>12 pt</OPTION> <OPTION value=3D14pt>14 =
+pt</OPTION>=20
+              <OPTION value=3D16pt>16 pt</OPTION> <OPTION =
+value=3D19pt>19=20
+            pt</OPTION></SELECT> </FONT><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1186#"><IMG=20
+            alt=3D"=BD=AB =
+=CA=FD=D7=D6=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=B5=C4=D7=E9=B3=C9=BA=
+=CD=B7=D6=C0=E0 =CA=D5=B2=D8=B5=BD=C4=FA=B5=C4=CA=D5=B2=D8=BC=D0" =
+border=3D0 height=3D16=20
+            =
+onclick=3D"addToFavorite('=B5=E7=D7=D3=BC=BC=CA=F5=CC=EC=B5=D8=A3=BA=CA=FD=
+=D7=D6=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=B5=C4=D7=E9=B3=C9=BA=CD=B7=
+=D6=C0=E0')"=20
+            src=3D"http://www.dzjs.com/images/Fav.gif" =
+width=3D16></A>&nbsp; <A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1186#"=20
+            onclick=3Djavascript:WebBrowser.ExecWB(4,1)><IMG =
+align=3DabsMiddle=20
+            alt=3D=B1=A3=B4=E6=B5=BD=D3=B2=C5=CC border=3D0 height=3D16=20
+            src=3D"http://www.dzjs.com/images/saveas.gif" =
+width=3D16></A>
+            <OBJECT classid=3DCLSID:8856F961-340A-11D0-A96B-00C04FD705A2 =
+height=3D0=20
+            id=3DWebBrowser width=3D0></OBJECT>&nbsp; <A=20
+            href=3D"http://www.dzjs.com/sendmail.asp?id=3D1186" =
+target=3D_blank><IMG=20
+            =
+alt=3D=B0=D1=B1=BE=CE=C4=B7=A2=CB=CD=B8=F8=BA=C3=D3=D1=A3=BA=A3=A9 =
+border=3D0 height=3D18=20
+            src=3D"http://www.dzjs.com/images/emailtofriend.gif"=20
+            width=3D45></A>&nbsp; <A =
+href=3D"javascript:window.print()"><IMG=20
+            =
+alt=3D=B4=F2=D3=A1=A3=BA=CA=FD=D7=D6=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=
+=F7=B5=C4=D7=E9=B3=C9=BA=CD=B7=D6=C0=E0 border=3D0 height=3D16=20
+            src=3D"http://www.dzjs.com/images/printpage.gif" =
+width=3D16></A> </TD></TR>
+        <TR>
+          <TD align=3Dmiddle>
+            <HR color=3D#ff9900 noShade SIZE=3D1>
+          </TD></TR>
+        <TR>
+          <TD align=3Dleft vAlign=3Dcenter width=3D700>
+            <TABLE align=3Dcenter bgColor=3D#fcfefc border=3D0 =
+borderColorDark=3D#999999=20
+            borderColorLight=3D#6699ff cellPadding=3D5 cellSpacing=3D0=20
+            style=3D"LINE-HEIGHT: 150%">
+              <TBODY>
+              <TR align=3Dleft vAlign=3Dtop>
+                <TD height=3D112 id=3Dthetd style=3D"FONT-SIZE: 10pt" =
+width=3D44>
+                  <DIV align=3Dright style=3D"HEIGHT: 30px; WIDTH: =
+700px"><FONT=20
+                  =
+color=3D#ff9900>&nbsp;&nbsp;&nbsp;&nbsp;=A3=A8=CB=AB=BB=F7=D7=D4=B6=AF=B9=
+=F6=C6=C1=A3=AC=B5=A5=BB=F7=CD=A3=D6=B9=A3=A9</FONT></DIV>
+                  <DIV align=3Dleft style=3D"HEIGHT: 132px; WIDTH: =
+700px">
+                  <P align=3Dleft=20
+                  style=3D"LINE-HEIGHT: =
+150%"><BR>=CA=FD=D7=D6=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=CA=C7=D2=BB=
+=D6=D6=BD=AB=CA=E4=C8=EB=C4=A3=C4=E2=D2=F4=EEl=D0=C5=BA=C5=BB=F2PCM=CA=FD=
+=D7=D6=D0=C5=CF=A2=B1=E4=BB=BB=B3=C9PWM(=C2=F6<BR>=B3=E5=C1=C1=B6=C8=B5=F7=
+=D6=C6)=BB=F2PDM(=C2=F6=B3=E5=C3=DC=B6=C8=B5=F7=D6=C6)=B5=C4=C2=F6=B3=E5=D0=
+=C5=BA=C5,=C8=BB=BA=F3=D3=C3PWM=BB=F2PDM=B5=C4=C2=F6=B3=E5=D0=C5=BA=C5=C8=
+=A5=BF=D8=D6=C6<BR>=B4=F3=B9=A6=C2=CA=BF=AA=B9=D8=C6=F7=BC=FE=CD=A8/=B6=CF=
+=D2=F4=EEl=B9=A6=C2=CA=B7=C5=B4=F3=C6=F7=A1=A3=D2=B2=B3=C6=CE=AA=BF=AA=B9=
+=D8=B7=C5=B4=F3=C6=F7=A1=A2D=C0=E0=B7=C5=B4=F3=C6=F7=A3=AC=BE=DF=D3=D0=D0=
+=A7=C2=CA=B8=DF=B5=C4=CD=BB=B3=F6=D3=C5=B5=E3.=CA=FD=D7=D6=D2=F4=EEl=B9=A6=
+=C2=CA=B7=C5=B4=F3=C6=F7=D2=B2=BF=B4=C9=CF=C8=A5=B3=C9=CA=C7=D2=BB=B8=F6=D2=
+=BB=B1=C8=CC=D8=B5=C4=B9=A6=C2=CA=CA=FD=C4=A3=B1=E4=BB=BB=C6=F7.=B7=C5=B4=
+=F3=C6=F7=D3=C9=CA=E4=C8=EB=D0=C5=BA=C5=B4=A6=C0=ED=B5=E7=C2=B7=A1=A2=BF=AA=
+=B9=D8=D0=C5=BA=C5=D0=CE=B3=C9=B5=E7=C2=B7=A1=A2=B4=F3=B9=A6=C2=CA=BF=AA=B9=
+=D8=B5=E7=C2=B7=BA=CD=B5=CD=CD=A8=C2=CB=B2=A8=C6=F7=B5=C8=CB=C4=B2=BF=B7=D6=
+=D7=E9=B3=C9.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=CA=E4=C8=EB=D0=C5=BA=C5=D0=CE=B3=
+=C9=B5=E7=C2=B7=B7=D6PWM=B4=A6=C0=ED=C6=F7=BA=CDPDM=B4=A6=C0=ED=C1=BD=D6=D6=
+,=BD=AB=CA=E4=C8=EB=D0=C5=BA=C5=B5=C4=D5=F1=B7=F9=B1=E4=BB=AF=B1=E4=BB=BB=
+=B3=C9=C2=F6=B3=E5=BF=ED=B6=C8=B5=C4=B1=E4=BB=AF=BB=F2=C2=F6=B3=E5=C3=DC=B6=
+=C8=B5=C4=B1=E4=BB=AF.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=B4=F3=B9=A6=C2=CA=BF=AA=
+=B9=D8=B5=E7=C2=B7=B7=D6=CD=B7=C7=C5=CA=BD=BA=CD=C8=AB=C7=C5=CA=BD(BTL=C1=
+=AC=BD=D3)=C1=BD=D6=D6.=B4=F3=B9=A6=C2=CA=BF=AA=B9=D8=C6=F7=BC=FE=D4=DA=C6=
+=DF=CA=AE=C4=EA=B4=FA=B6=BC=CA=C7=CA=B9=D3=C3=CB=AB=BC=AB=D0=CD=BE=A7=CC=E5=
+=C8=FD=BC=AB=B9=DC.=B6=F8=CF=D6=D4=DA=BC=B8=BA=F5=B6=BC=D6=BB=CA=B9=D3=C3=
+N=B9=B5=B5=C0MOS-FET.=B0=EB=C7=C5=B7=BD=CA=BD=CA=B1=C9=CF=CF=C2=C1=BD=D6=BB=
+=B9=DC=D7=D3=B5=C4=B9=A4=D7=F7=D7=B4=CC=AC=CF=E0=B7=B4=C2=D6=C1=F7=CD=A8=B6=
+=CF,=C8=AB=C7=C5=B7=BD=CA=BD=CA=B1=C1=BD=CC=F5=B6=D4=BD=C7=CF=DF=C9=CF=B5=
+=C4=B9=DC=D7=D3=B9=A4=D7=F7=D7=B4=CC=AC=CF=E0=B7=B4=C2=D6=C1=F7=CD=A8=B6=CF=
+.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=B5=CD=CD=A8=C2=CB=B2=A8=C6=F7=B5=C4=D7=F7=D3=
+=C3=CA=C7=BD=AB=C2=F6=B3=E5=B2=A8=D0=CE=D5=FB=D0=CE=B3=C9=C6=AF=C1=C1=B5=C4=
+=C4=A3=C4=E2=B2=A8=D0=CE,=BC=B4=C2=CB=B3=FDPWM=BB=F2PDM=D0=C5=BA=C5=B5=C4=
+=D4=D8=B2=A8=B3=C9=B7=D6.=B3=A3=B2=C9=D3=C3=B9=A6=C2=CA=CB=F0=BA=C4=D0=A1=
+=B5=C4LC=D0=CD=C2=CB=B2=A8=C6=F7.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=CA=FD=D7=D6=
+=B7=C5=B4=F3=C6=F7=D6=D0=D7=EE=B9=C5=B5=E4=B5=C4=B5=E7=C2=B7=CA=C7=D4=DA=BF=
+=AA=B9=D8=D0=C5=BA=C5=D0=CE=B3=C9=B5=E7=C2=B7=D6=D0=CA=B9=D3=C3=B5=E7=D1=B9=
+=B1=C8=BD=CF=C6=F7=BA=CD=C8=FD=BD=C7=B2=A8=B7=A2=C9=FA=C6=F7=B5=C4=B7=BD=CA=
+=BD.=D3=C3=C8=FD=BD=C7=B2=A8=B7=A2=C9=FA=C6=F7=B2=FA=C9=FA=B5=C4=B5=C8=B7=
+=F9=C8=FD=BD=C7=CA=D4=D3=EB=C4=A3=C4=E2=D0=C5=BA=C5=BD=F8=D0=D0=B5=E7=D1=B9=
+=B1=C8=BD=CF,=B2=A2=B1=E4=BB=BB=B3=C9PWM=D0=C5=BA=C5.=D5=E2=D6=D6=B7=BD=CA=
+=BD=C8=DD=D2=D7=CA=DC=D4=AA=BC=FE=B2=CE=CA=FD=B2=BB=D2=BB=D6=C2=BA=CD=B2=CE=
+=CA=FD=B1=E4=BB=AF=B5=C4=D3=B0=CF=EC,=CD=A8=B3=A3=D4=DA=CA=E4=C8=EB=D0=E8=
+=D2=FD=C8=EB=B8=BA=B7=B4=C0=A1.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=A1=F7=A1=C6=D0=
+=CDPDM=CA=FD=D7=D6=B7=C5=B4=F3=C6=F7=CA=C7=CF=C4=C6=D5=B5=C8=B9=AB=CB=BE=B2=
+=C9=D3=C3=B5=C4=B7=BD=CA=BD,=D2=B2=B3=C6=CE=AA=A1=F7=A1=C6=D2=BB=B1=C8=CC=
+=D8=B7=C5=B4=F3=C6=F7.=BF=AA=B9=D8=D0=C5=BA=C5=D0=CE=B3=C9=B5=E7=C2=B7=CA=
+=B9=D3=C3=D2=BB=B1=C8=CC=D8=CA=E4=B3=F6=B5=C4=20
+                  =
+=A1=F7=A1=C6=B5=F7=D6=C6=C6=F7,=D3=C3=CB=FC=BD=AB=C4=A3=C4=E2=D0=C5=BA=C5=
+=B1=E4=BB=BB=B3=C9PDM=D0=C5=BA=C5.=CD=A8=B3=A3=CE=AA=C1=CB=B8=C4=C9=C6=CF=
+=DF=D0=D4,=B4=D3=CA=E4=B3=F6=B6=CB=C9=ED=A1=F7=A1=C6=B5=F7=D6=C6=C6=F7=D2=
+=FD=C8=CB=D3=D0=B8=BA=B7=B4=C0=A1.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=C9=CF=C3=E6=
+=C1=BD=D6=D6=CA=FD=D7=D6=B7=C5=B4=F3=C6=F7=B5=C4=CA=E4=C8=EB=D0=C5=BA=C5=B6=
+=BC=CA=C7=C4=A3=C4=E2=D0=C5=BA=C5.=CF=D6=D4=DA=C9=F9=D4=B4=D2=D1=D2=D4=CA=
+=FD=D7=D6=C9=F9=D4=B4=CE=AA=D6=F7,=CB=F9=D2=D4=C8=AB=CA=FD=D7=D6=B7=C5=B4=
+=F3=C6=F7=BE=CD=B3=C9=C1=CB=CA=FD=D7=D6=B7=C5=B4=F3=C6=F7=B7=A2=D5=B9=B5=C4=
+=B1=D8=C8=BB=C7=F7=CA=C6.=A1=F7=A1=C6=D0=CDPWM=CA=FD=D7=D6=B7=C5=B4=F3=C6=
+=F7=CA=C7=C8=AB=CA=FD=D7=D6=B7=C5=B4=F3=C6=F7=B5=C4=D2=BB=D6=D6=B7=BD=CA=BD=
+,=B8=C3=C8=AB=CA=FD=D7=D6=B7=C5=B4=F3=C6=F7=B5=C4=BF=AA=CD=B7=D0=C5=BA=C5=
+=D0=CE=B3=C9=B5=E7=C2=B7=D3=C9=B1=C8=CC=D8=B1=E4=BB=BB=B5=E7=C2=B7=BA=CDP=
+WM=B1=E4=BB=BB=B5=E7=C2=B7=D7=E9=B3=C9.=B1=C8=CC=D8=B1=E4=BB=BB=B5=E7=C2=B7=
+=B5=C4=D7=F7=D3=C3=CA=C7=B0=D1=CA=E4=C8=EB=B5=C4PCM=D0=C5=BA=C5=B1=E4=BB=BB=
+=B3=C9=B5=CD=B1=C8=CC=D8=B5=C4PCM=D0=C5=BA=C5,=C8=BB=BA=F3=D4=D9=BE=ADPWM=
+=B1=E4=BB=BB=B5=E7=C2=B7=B0=D1=B5=CD=B1=C8=CC=D8=B5=C4PCM=D0=C5=BA=C5=B1=E4=
+=BB=BB=B3=C9PWM=D0=C5=BA=C5.=B1=C8=CC=D8=C6=B7=C6=B5=B4=F8=B5=C4=B8=DF=B6=
+=CB=BA=CD=BC=F5=C9=D9=B1=C8=CC=D8=D1=B9=CB=F5=D2=FD=C6=F0=B5=C4=D0=C5=D4=EB=
+=B1=C8=B6=F1=BB=AF,=CA=B9=D3=C3=C1=CB=B6=E0=B1=C8=CC=D8=CA=E4=B3=F6=B5=C4=
+=A1=F7=A1=C6=B5=F7=D6=C6=C6=F7.=D4=DAPWM=D2=E0=BB=BB=B5=E7=C2=B7=B2=C9=D3=
+=C3=C1=CB=C7=B0=C0=A1=B2=B9=B3=A5,=CA=E4=B3=F6=C1=BD=C2=B7PWM=D0=C5=BA=C5=
+=B0=CBBTL=C7=FD=B6=AF.=D5=E2=C1=BD=C2=B7PWM=D0=C5=BA=C5=B5=C4=CF=E0=F0=D5=
+=CF=E0=B7=B4,=B2=A2=B3=CA2=B5=C4=B2=B9=CA=FD=C7=A7=B9=D8=CF=B5,=CA=B9=CA=E4=
+=B3=F6=D7=E9=BF=AA=B9=D8=C6=F7=BC=FE=CC=D8=D0=D4=D2=FD=C6=F0=B5=C4=B1=E4=BB=
+=BB=CE=F3=B2=EE=D4=DA=B4=F3=B9=A6=C2=CA=BF=AA=CD=B7=B5=E7=C2=B7=D6=D0=CF=E0=
+=BB=A5=B5=D6=CF=FB.=D2=F2=B4=CB=D5=E2=D6=D6=B5=E7=C2=B7=BF=C9=D2=D4=D7=F6=
+=B5=BD=CA=A7=D5=E6=D0=A1=C7=D2=B2=BB=B8=C4=D2=FD=C8=CB=B8=BA=B7=B4=C0=A1.=
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;PDM=D0=C5=BA=C5=CA=C7=D5=F1=B7=F9=BA=CD=CA=B1=
+=BC=E4=BF=ED=B6=C8=CF=E0=CD=AC=B5=C4=C2=F6=B3=E5,=D6=BB=CA=C7=C2=F6=B3=E5=
+=B5=C4=C3=DC=B6=C8=CB=E6=C4=A3=C4=E2=B6=F8=B1=E4.=D2=F2=B4=CBPDM=D0=C5=BA=
+=C5=D4=DA=D5=F1=B7=F9=BA=CD=CA=B1=BC=E4=D6=E1=B7=BD=CF=F2=B6=BC=CA=C7=D2=BB=
+=B8=F6=B1=C8=CC=D8=B5=C4=D0=C5=BA=C5.=B6=F8PWM=D0=C5=BA=C5=CA=C7=D5=F1=B7=
+=F9=BA=CD=B3=F6=CF=D6=C6=B5=C2=CA=D2=BB=BC=D2=B5=C4=C2=F6=B3=E5,=C2=F6=B3=
+=E5=BF=ED=B6=C8=CB=E6=C4=A3=C4=E2=D0=C5=BA=C5=B5=C4=D5=F1=B7=F9=B6=F8=B1=E4=
+.=D2=F2=B4=CB,=B6=D4PWM=D0=C5=BA=C5=C0=B4=CF=EA=D5=F1=B7=F9=B7=BD=CF=F2=CA=
+=C7=D2=BB=B1=C8=CC=D8=B5=C4=D0=C5=BA=C5.PDM=B7=BD=CA=BD=CE=AA=C1=CB=C8=B7=
+=B1=A3=CF=E0=CD=AC=B5=C4=D0=C5=D4=EB=B1=C8=BA=CD=B6=AF=CC=AC=B7=B6=CE=A7,=
+=CB=F9=CA=B9=D3=C3=B5=C4=BF=AA=B9=D8=C6=B5=C2=CA=B1=C8PWM=B7=BD=CA=BD=D2=AA=
+=CA=D0,=BF=AA=B9=D8=C6=B5=C2=CA=CA=D0=B4=EF=CA=FDMHz,=C0=FD=C8=E7=CF=C4=C6=
+=D5=B5=C4SM-SX2000=B5=C4=BF=AA=B9=D8=C6=B5=C2=CA=BE=CD=B8=DF=B4=EF5.6448M=
+Hz.PWM=B7=BD=CA=BD=B5=C4=BF=AA=B9=D8=C6=B5=C2=CA=BF=C9=D3=C3=B5=C3=BD=CF=B5=
+=CD,=B5=AB=D6=F7=CA=B1=D6=D3=C6=B5=C2=CA=BD=CF=CA=D0,=CE=AA=BF=AA=B9=D8=C6=
+=B5=C2=CA=B5=C42=B5=C4N=B4=CE=B7=BD=B1=B6.<BR>&nbsp;&nbsp;&nbsp;&nbsp;PDM=
+=B7=BD=CA=BD=B5=C4=CD=B7=C6=B5=C2=CA=CA=D0,=CB=F9=D2=D4=B1=D8=D0=EB=CA=B9=
+=D3=C3=CA=E4=C8=EB=B5=E7=BF=CD=D0=A1=B5=C4=BF=AA=B9=D8=C6=F7=BC=FE,=B6=F8=
+=D5=E2=C0=E0=BF=AA=B9=D8=C6=F7=BC=FE=B5=C4=B5=BC=CD=A8=B5=E7=D7=E8=CD=F9=CD=
+=F9=C6=AB=B4=F3.=CF=E0=B7=B4,PWM=B7=BD=CA=BD=D4=F2=BF=C9=D2=D4=D1=A1=D3=C3=
+=B5=BC=CD=A8=B5=E7=D7=E8=BD=CF=D0=A1=B5=C4=BF=AA=B9=D8=C6=F7=BC=FE,=CB=F9=
+=D2=D4=BF=AA=CD=B7=B5=E7=C2=B7=B5=C4=D0=A7=C2=CA=D4=DA85%=D7=F3=D3=D2,=B6=
+=F8=D3=D6=D2=BB=B0=E3=B5=C4PWM=B7=C5=B4=F3=C6=F7=BE=F9=BF=C9=BB=F1=B5=C39=
+0%=D2=D4=C9=CF=B5=C4=B8=DF=D0=A7=C2=CA.<BR>&nbsp;&nbsp;&nbsp;&nbsp;=C4=BF=
+=C7=B0,TI=B9=AB=CB=BE=A1=A2=CB=F7=C4=E1=B9=AB=CB=BE=B5=C8=B6=BC=D2=D1=BF=AA=
+=B7=A2=B3=F6=C1=CB=D3=C3=D3=DA=CA=FD=D7=D6=D2=F4=C6=B5=B7=C5=B4=F3=C6=F7=B5=
+=C4=D7=A8=D3=C3=BC=AF=B3=C9=B5=E7=C2=B7,=B2=A2=D3=C3=D5=E2=D0=A9=BC=AF=B3=
+=C9=B5=E7=C2=B7=C9=FA=B2=FA=B3=F6=C1=CB=B6=E0=D6=D6=C8=AB=CA=FD=D7=D6=B7=C5=
+=B4=F3=C6=F7,=D3=D0=B5=C4=B2=FA=C6=B7=CA=C7=C3=E6=C9=ED=CA=D0=B6=CB=D3=C3=
+=BB=A7=B6=F8=BF=AA=B7=A2=B5=C4=B2=FA=C6=B7.=CD=AC=CA=B1=B8=F7=BC=D2=B9=AB=
+=CB=BE=D2=B2=D5=FD=D4=DA=BD=E7=BC=F5=C9=D9=B1=F8=D5=E6=BD=F8=D0=D0=D7=C5=B8=
+=F7=D6=D6=D1=D0=BE=BF.</P>
+                  =
+<P><BR></P></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD=
+></TR>
+  <TR>
+    <TD align=3Dmiddle height=3D40><FONT=20
+    =
+color=3D#ff9900>=B0=E6=C8=A8=B9=E9=D4=AD=D7=F7=D5=DF=CB=F9=D3=D0;=C8=E7=D0=
+=E8=D7=AA=D4=D8=C7=EB=CF=C8=C1=AA=CF=B5=D4=AD=D7=F7=D5=DF=A3=A1</FONT></T=
+D></TR>
+  <TR>
+    <TD align=3Dmiddle vAlign=3Dtop>
+      <TABLE align=3Dcenter border=3D1 borderColorDark=3Dwhite=20
+      borderColorLight=3D#6666ff cellSpacing=3D0 width=3D"98%">
+        <TBODY>
+        <TR>
+          <TD bgColor=3D#fdfde8>
+            <P style=3D"LINE-HEIGHT: 200%">=CD=F8=D3=D1=C6=C0=BC=DB [<A=20
+            href=3D"http://www.dzjs.com/AddReview.asp?ID=3D1186"><FONT=20
+            =
+color=3Dred>=B7=A2=B1=ED=C4=E3=B5=C4=C6=C0=BC=DB</FONT></A>]<BR><IMG=20
+            src=3D"http://www.dzjs.com/images/face/1.gif"><A=20
+            =
+href=3D"http://www.dzjs.com/view.asp?ReviewID=3D395&amp;ID=3D1186"=20
+            target=3D_blank>shit</A> =D3=C9<FONT=20
+            =
+color=3D#000099>shit</FONT>=B7=A2=B1=ED=D3=DA6.29&nbsp;<BR><IMG=20
+            src=3D"http://www.dzjs.com/images/face/1.gif"><A=20
+            =
+href=3D"http://www.dzjs.com/view.asp?ReviewID=3D386&amp;ID=3D1186"=20
+            target=3D_blank>=BB=D8=B8=B4=A3=A1</A> =D3=C9<FONT=20
+            =
+color=3D#000099>=B0=B2=D7=D0</FONT>=B7=A2=B1=ED=D3=DA6.24&nbsp;<BR><BR></=
+P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dmiddle>
+      <HR color=3D#ff9933 noShade SIZE=3D1>
+    </TD></TR>
+  <TR>
+    <TD align=3Dmiddle vAlign=3Dtop>
+      <TABLE border=3D0 cellPadding=3D3 cellSpacing=3D0 =
+style=3D"LINE-HEIGHT: 150%"=20
+      width=3D"98%">
+        <TBODY>
+        <TR>
+          <TD class=3Dthesmall height=3D15 vAlign=3Dtop width=3D"50%">
+            <P align=3Dleft style=3D"LINE-HEIGHT: =
+150%"><B>shanqi</B><FONT=20
+            =
+color=3D#0074b0>=B5=C4=C6=E4=CB=FB=CE=C4=D5=C2=A3=BA</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1253" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=BE=AB=D1=A15.1=BC=D2=CD=A5=D3=B0=D4=BA=CE=E5=B4=F3=D2=AA=BE=
+=F7=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:99 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=BE=AB=D1=A15.1=BC=D2=CD=A5=D3=B0=D4=BA=CE=E5=B4=F3=D2=AA=BE=F7=
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-9-2</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1242" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=C0=A9=C9=F9=B9=A4=B3=CC=CF=B5=CD=B3=C9=E8=BC=C6=A1=B7&#13=
+;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:429 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=C0=A9=C9=F9=B9=A4=B3=CC=CF=B5=CD=B3=C9=E8=BC=C6</A>&nbsp;<FONT=
+ color=3D#aaaaaa>2004-8-16</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1228" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=CA=EF=B9=E2=B5=E7=D7=D3=B9=DC=B3=A7=D7=EE=D0=C2=B1=A8=BC=DB=
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1203 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=CA=EF=B9=E2=B5=E7=D7=D3=B9=DC=B3=A7=D7=EE=D0=C2=B1=A8=BC=DB</A=
+>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-30</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1227" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B5=A8=D2=D5=D0=F9=D0=C2=BF=EEEL34=B6=E0=D3=C3=B5=A5=B6=CB=
+=CC=D7=BC=FE=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:840 =
+=B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=B5=A8=D2=D5=D0=F9=D0=C2=BF=EEEL34=B6=E0=D3=C3=B5=A5=B6=CB=CC=D7=
+=BC=FE</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-28</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1217" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B5=F7=D2=F4=BC=BC=C7=C9=C8=EB=C3=C5 =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:2406 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B5=F7=D2=F4=BC=BC=C7=C9=C8=EB=C3=C5 =
+</A>&nbsp;<FONT color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1216" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=CF=C2) =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1823 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=CF=C2) =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1215" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=C9=CF) =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1824 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=C9=CF) =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1214" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=D3=EB=D2=F4=CF=E4=C5=E4=BD=D3=CB=C4=D2=AA=CB=D8=
+ =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1785 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=B9=A6=B7=C5=D3=EB=D2=F4=CF=E4=C5=E4=BD=D3=CB=C4=D2=AA=CB=D8 =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1213" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=CA=B9=D3=C3=BE=F9=BA=E2=D3=A6=D7=A2=D2=E2=B5=C4=BC=B8=B8=F6=
+=CE=CA=CC=E2! =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:864 =
+=B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=CA=B9=D3=C3=BE=F9=BA=E2=D3=A6=D7=A2=D2=E2=B5=C4=BC=B8=B8=F6=CE=
+=CA=CC=E2! </A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1212" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B4=D3=C2=CB=B2=A8=C6=F7=B5=BD=B7=B4=C0=A1=C9=F9=D2=D6=D6=C6=
+=C6=F7 =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1103 =
+=B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=B4=D3=C2=CB=B2=A8=C6=F7=B5=BD=B7=B4=C0=A1=C9=F9=D2=D6=D6=C6=C6=
+=F7 </A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR></P></TD>
+          <TD class=3Dthesmall height=3D15 vAlign=3Dtop width=3D"50%">
+            <P align=3Dleft style=3D"LINE-HEIGHT: 150%"><FONT=20
+            =
+color=3D#0074b0>=B1=BE=CE=C4=D5=C2=B5=C4=CF=E0=B9=D8=CE=C4=D5=C2=A3=BA</F=
+ONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1253" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=BE=AB=D1=A15.1=BC=D2=CD=A5=D3=B0=D4=BA=CE=E5=B4=F3=D2=AA=BE=
+=F7=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:99 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=BE=AB=D1=A15.1=BC=D2=CD=A5=D3=B0=D4=BA=CE=E5=B4=F3=D2=AA=BE=F7=
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-9-2</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1217" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B5=F7=D2=F4=BC=BC=C7=C9=C8=EB=C3=C5 =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:2406 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B5=F7=D2=F4=BC=BC=C7=C9=C8=EB=C3=C5 =
+</A>&nbsp;<FONT color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1216" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=CF=C2) =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1823 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=CF=C2) =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1215" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=C9=CF) =
+=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1824 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            width=3D8>=B9=A6=B7=C5=B2=CE=CA=FD=D6=B8=B1=EA(=C9=CF) =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1214" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B9=A6=B7=C5=D3=EB=D2=F4=CF=E4=C5=E4=BD=D3=CB=C4=D2=AA=CB=D8=
+ =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1785 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=B9=A6=B7=C5=D3=EB=D2=F4=CF=E4=C5=E4=BD=D3=CB=C4=D2=AA=CB=D8 =
+</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1213" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=CA=B9=D3=C3=BE=F9=BA=E2=D3=A6=D7=A2=D2=E2=B5=C4=BC=B8=B8=F6=
+=CE=CA=CC=E2! =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:864 =
+=B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=CA=B9=D3=C3=BE=F9=BA=E2=D3=A6=D7=A2=D2=E2=B5=C4=BC=B8=B8=F6=CE=
+=CA=CC=E2! </A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1212" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=B4=D3=C2=CB=B2=A8=C6=F7=B5=BD=B7=B4=C0=A1=C9=F9=D2=D6=D6=C6=
+=C6=F7 =A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1103 =
+=B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=B4=D3=C2=CB=B2=A8=C6=F7=B5=BD=B7=B4=C0=A1=C9=F9=D2=D6=D6=C6=C6=
+=F7 </A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1211" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=D1=DD=B2=A5=CC=FC=C9=F9=D2=F4=CF=E4=B9=A6=C2=CA=B5=C4=BC=C6=
+=CB=E3=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:784 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=D1=DD=B2=A5=CC=FC=C9=F9=D2=F4=CF=E4=B9=A6=C2=CA=B5=C4=BC=C6=CB=
+=E3</A>&nbsp;<FONT=20
+            color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1210" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=D0=A7=B9=FB=C6=F7=B5=C4=CA=B9=D3=C3=BC=BC=C7=C9=A1=B7&#13=
+;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:1226 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=D0=A7=B9=FB=C6=F7=B5=C4=CA=B9=D3=C3=BC=BC=C7=C9</A>&nbsp;<FONT=
+ color=3D#aaaaaa>2004-7-10</FONT><BR><A=20
+            href=3D"http://www.dzjs.com/list.asp?id=3D1209" =
+target=3D_blank=20
+            =
+title=3D"=3D=3D=3D=3D=3D=3D=3D=CE=C4=D5=C2=D0=C5=CF=A2=3D=3D=3D=3D=3D=3D&=
+#13;&#10;=A1=B6=D2=F4=CF=EC=BC=B0=C2=BC=D2=F4=B5=C4=CF=DF=B2=C4=D3=EB=BD=D3=
+=CD=B7=A1=B7&#13;&#10;=D7=F7=D5=DF:shanqi =D4=C4=B6=C1:972 =B4=CE"><IMG=20
+            border=3D0 height=3D8 =
+src=3D"http://www.dzjs.com/images/tritip.gif"=20
+            =
+width=3D8>=D2=F4=CF=EC=BC=B0=C2=BC=D2=F4=B5=C4=CF=DF=B2=C4=D3=EB=BD=D3=CD=
+=B7</A>&nbsp;<FONT=20
+            =
+color=3D#aaaaaa>2004-7-10</FONT><BR></P></TD></TR></TBODY></TABLE></TD></=
+TR>
+  <TR>
+    <TD>
+      <P align=3Dright class=3Dthesmall style=3D"LINE-HEIGHT: 150%"><A=20
+      href=3D"http://www.dzjs.com/list.asp?id=3D1186#top"><BR><IMG =
+border=3D0 height=3D7=20
+      src=3D"http://www.dzjs.com/images/tritip_up.gif" width=3D8>=20
+  top</A></P></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/logo.gif
+
+R0lGODlh1AE8AIMAAPj46AAAgAAA+GgoKAAAALcFCLUICJcl76goKJFQ/Ab5zA75yiPtzQv3vKoG
+DBP31CH/C05FVFNDQVBFMi4wAwEAAAAh/ihCYW5uZXJzaG9wIEdJRiBBbmltYXRvciwgd3d3LnNl
+bHRlY28uY29tACH5BABkAAAALAAAAADUATwAAAP/CLrc/jCGSKu9lODNu18TF36kNZZoqpxq6zKs
+o710Gdf4jO/kTfm8CzBIGwyIyIuxoks6AcNnpymtRh3XKvRSKGgxxoB4TC6bz+i0uowKr78g8XaO
+ysIjVOyKjune/XYgKgSEAF1eNoZ+EId3FEuOQm1HkT9bIYESNY08eQ2Yc3IWh4gOpDucG1GkrK2t
+iammpZV6tJZ1thBjULspmVyLLa7DrROYdsGyszRdE7GaH8kLniKKywzSuXzaML7cn5d73szZL9QK
+rOHbjNcLzy/N6O/g0e3nGM7JnOW2v1/+9L4RAUhhnotzp0rws8YjnryF6/rY8xZrX7t+AgP2yLhB
+/4DHj5LqPXgHcYFHCgLYXeSw0KAKhw9vdZh3T1LFRcFKWuEoCBdPlCk9ECRGtEuhCClPPgjaQOcD
+MltwLkvVqBcJmPjqTbxljBeom4ikutyZgtCMmkLH/XSg9MPQbCQR3WPa1mRTp0+tFSUmyBhArO7K
+/S1XE1TXcGAfpsM46GwNgj3XmmS68eq1uArmNqjLdKyJTy0FyxF1d+/eWjMJe67wymJYvEkgQ0Db
+QXZEjpQTWVYmC4BZpEuDdl4tYXS+CPMOe3ilSqVposuZ66UKG4ltGY/Vrs2tW2Tp3ha4Tx6+crdK
+HNJDps5Ge1ROi4HLkzWX3ef2B0by68+vS+FluP9eBGDWgAMmBdJmQc1DHHgjVQfMYllF94x4Ek73
+Wny5XNdAe83Z90RdF1BICQQjgsMhNs+dEgV5KQ7DgGaKCNDiS6QEANsIGhxVkBfSULgeihfGxBh9
+XF1iVTceHoQSAD4uReIj/Z0YGG933WaXRPK9uCSE5SyInB/N3DhNZqxJxUCTGySmCIZDKlmkcnkl
+2diSHPhYogN3CiKlPFSiaKUCaAIZKJlfHpKbNF5+Kc9x6jm2Y5CACqOPmULSoqGWb/5p26VjnjPo
+mRGM+NsCee6x55rfVblimn6A+AA1p3Rx6FSyfmTrrbgCuShDnxFa03ug0jgLfJVWwimhxRlGmkb/
+btUwqpMdQekrqf2Zp6uqFXzKK5NoQoJiggVw954X2kZaqUOeeYuln+amoKaLbbZwqkyVSVFuk6Ii
+OwAhZ/jX55SrrjsZgQQaQfCBtX5EiFG+HUJAuUwuDIgYzVB8iBpukPFslde6WiGbYmnzi8dXvrDG
+ySinXAbBBCYVYgWi6ghAqZmd2mJVMD4IaKDqBisrb5xADO5dIySEH83npcotCq5ROqWlG2pGMsS1
+iZLFsS9j0K20s3l3bYN0PkhynGzJI5yfQXeQEoAnGM10lz1SrRiYTj8dCQs5Ardz2UEYpt6H0XKN
+XwbwhBa2e1kye+XPByo2Hq6QnwQ3CxBqVegy/2M79zXYxsrgKYLB8uB3r/YGHuqLOiK98dsrQfSp
+jA76AO7Zm0fHTgzpsSSf23uXGVd5Du4QQ85n0i661X87oe3WYzKA9CPP9+yS6yWDnuhtsytzfbFE
+s2NZ4pX3XmiDrW9fn+lsZQ4H1uGhPzjqpPKrcgAZn1G/jRWfYRTLhBgIYlvXW0W4UsW7MpUJa14K
+H5P8YxoczA8NvuFf/7jlKvWh4H8VYF+23Icn1OlAddToWQOkF5qV0KV48OqQIIoxBt69wi9e0R1k
+cqSD4E1IbkCCjgNro7YQQUxmEOAMmthHvA0KroN4gIYS41MUvRXPLgUk3R7yUbEoTiccRwLGDP8J
+lQ2qWZAnmTCAGMeYNR9uAIjBGU8GnVXEw73vSUms1hKTxzfxmSt42+iKKC7mniny4k+l2aJv3Jit
+H37jFxMgY/vqNCg0pk+N9CIStMoIxwg24XnniAIijegxHEZmin6BU1aMsyw6ntGSTizkB+bVNx4q
+0ogQeOVkmODIJ1JwiGwkpC6pRaZL1kuOEULK2DwpDjAi4YRpJAErRedKMVLSAbK0ZQlOcivoaeFe
+XNvYvgjQr0iiJphBZIJ2MrIpCU7QVqAjQTUz1EwDPLMB0SyeOTVghgJBjkBeod8AHoiyebpMa6er
+mS/JBkyCmpIDhYnMLkp5yHHWkTLUnKZJFqr/QXBKgoy1bNcD4rm0FFATnaF63g6EFtBKKu6kSFKh
+MtfYFz3CUCCbguUsNdpDQOkRkK2sBkYHGU61EdOWIJ1jErxoUiR+06B8wilKTymThRrpjzB16Gak
+SdM6TdRqFZXiRZ2Zt55q7afpDGpBh+oBER3xkwZNyCZRUJjRYDGGHIkpnTopUZuGwhGbxGgbgwjW
+R+4Ml1WQm3j2Q1iaaZJKay3BMnFqvhbIVZgUGqNk4elOBkjWmZd1pmUru4DMAiCznFWAZjt72WJG
+4LJHiCdoSyvay3LHsxwArR0/e9kYwJa1reVo+ojqWJZei1Fa9UAexOQ7jqGnFI/16mw4qloD/9CF
+uaMlLWVDS1rq0jalGx3tAGorILOIsWWSzU00oxvdCozXmUyRpW5xS8bR6jZ0Ze2tNzkBXN+u1LjB
+lUgQkDvOEfjXOC9qbnlp+1wxWmWylF2BGMbIAgRvFrvTdd52m7uZMUJUAOq1rnVjGV1jGLi6caDt
+hgUMzQHT4IveVBx9echWqdKCv0k6AQyVNcgBu9PGC7SpgU9wYw3/0cMGaPB14bnUaCbSxtSVpVIy
+DE0MyDIEOz5ykGdsYhJH+JiePCy8Eoul3FUDDimEcXeK6VQaawDH483xAj88gh4n+ccLDjKR0wxh
+EIODzpvlbF2Y/AEjQyHKZARwAKyc5xJveP+kctNk00x70C+ZpbGMziEex3cutKYFBm69qVXOTN7c
+WrZdAhh0lD/r6c725c+dFvGnURpPKZuXjK7K8KFfTd3DQLnDYyC0nQttL7GmGAbUQQT+LqJWPllR
+LMMi7qNqxypauUMv7ErqWKegalNXW7SgvjaptX1o9ZYa2xLmsHVdTQELR5a8uL3Ae3n9CV1/e9dx
+LS6bQtCOYdFBH/JuikqTho3v7WgP9u63UKk9ZHAXfNvITPXBZy1GWznXIw3/iAEKRrNWa9vQTRKw
+g8ttYkM/xd0XD7kN3KpU+5Lvt+gYSb+Lpu9XESCKiYv0v1L+PWKvUODPHjhCSx1aRer5Sj7/5/Ws
+q91zzVpXhO/ew3vXnfTqMjgOL2V601GtYSRXfeg8tLUKBJhsYdOcfAHKudhPrnKLkh3nWnkGfwM+
+9qMKl+dCL1lQgm7nodMd7m5vOrkNjXWRgyDQP56i1EUu6qt7/MqOJeV1uI5yQ3DO8SxHe2lsbvaZ
+O15YbHeG5MtjGx0YPcHbVnN6K5tk0r/a4K1FvaX17nfVHv7gWxi11gvPYXj/3eqvtz0utO5iNgmJ
+3qbQd+Tb/jV8V15pxNdv8W/eds4L9zeep3BokSniqof+tNLvz3n1AF3rI768cdYjg0UB3QfnXvcg
+b+gPJuX1y2/+3i3Xnt3cn1/kfz01Slv7//t1ztTq8z10o2d1fbdxuXVoe5d0hWd4JfZ6VXZ+5Yd+
+VYZ7iBdv64dsYUd/9wcmzcdvFbFvZ5d8OlMs+jd2LsEpBOh/xdMWJ3iC/zddBhhyslZeKyiBF0eD
+tndeRddtNjh13KBl0jFsiNIIruF7TMQlVrRURKhAiFM59AUWPPJrGbA6sCdd2AF6C1hIDZddmrBe
+kiVlPrdaM5iDLNh6sJVdXch3YJiGYwg1UChzbQgcoRZil7Zs69N7T7BYwYFiSIhUKDB4UpBVFMh/
+biiIcPhfzZJvWpBccICHyTSHx0cCfvgEgEhOJpd3bxhOocZQX/YdkLZ1dugEixU5oqg+XKOmTN7V
+cXcwiVH1hpmAdO0DVkjnZfPxS4voUTVFIiJliZDYd4koGeczbXUGPW/QMh9FMA/kiiLzibHxQJY0
+QXVCIGWAjMDYZ7zYi75oMpW4hyOUi06SEjPWitx4N8p4H1YVUizGVgSAiuJ4jS5wWJeojd34VqW4
+imPGjvD1TvAYjB0QidZoj5/ojh74Mt74VpsYiLToj7c0ir7Gh++IkPqYBAkAACH5BAFkAAAALDkA
+HACQAR8AAAT/EMhJq7046827/2AojmRpnlSirgjqvnAsz3Rt33husXrv/8CgcEiE8UzHonLJbDqf
+qCRJCq1ar9hsjSriar/gsDjrBZXH6LR6TTuzhYfDe07/uuu5eBzP7y/vfjV6gRODhBsIiYotFIkV
+i46Qjo2ME5IAkpUSk5aQHisqLVSgpEelmhKnIZkZlxaunp2KHIaEtYcas6+cnY+8sru+qJu/mMMY
+SaSooRWgy8wT0ADSHLrAlJrWwpyz3MUVt7jiucWLwdi75ajaxOodo/DPCcPJ883HF+zE6ML56sP6
+KIQbR/BcI2Ov/CUsp/ARQofvqKWSSM1LvWX40jVst5Gfx2uF//SI7CGyZJqSA50wZHds5a+WAI2t
+i2hvR0V5+C6SCPhQJgZ9QP8J3ANgpA6iRZHKQBmjVsom2hhF/clLalWq2Tha+iRxYk1kZep9BcGz
+nz+AQs1KcKr0BlGjNp6OCNf2yVSfW88exLsJ6967HCx2TTHYayVVH8p+XMwXJMhbcuPWnRE5ROUq
+V/fl7VgpM+demzcIHtussOHSyjoodsw4KNpKkCe7vYyC9ge4X3Rlm5QR726p5IBf6436WFjTp206
+q/ZNo161rPnGlvPD9gnrHphq0c2vN/fhwfuC50o6OeryxTUAWq3Veeu0SamvlS0Iewn7t/EH4e1L
+fCvhoBHHH/Ql/gU22GgYpTdNeci115+D773m3nTVIUVfbRdaJt98G1phTn/EyYQWJsy54x0vB3YV
+j4IqksbSN1XBJKN7jimlHwlwZWjCjRe0xWMPH2ITYpCyDOnaiZrAQ1GLOE1Ej4SM9dQYhFS6NhR1
+Jh1loY73cZndlh16eGSJrxn5D5IKLijFcoSRZkpF5Vm5WFTNybkYSmFKhudseeK4Jxh1hqiZQYjg
+01x0ajKjSimMNukVmzQKWZYr22RiqaUFWfBjppyWAEinfmwK6qjkCUrqGoOIeuqqYKHH6hzavSqr
+Cw3OauutpNaK66684qJrr8AG+8anfkQAACH5BAFkAAIALDkAHACQAR8AAAT/UMhJq7046827/2Ao
+jmRpntSjrg7qvnAsz3Rt33husXrv/8CgcEiE8UzHonLJbDqfqCRJCq1ar9hsjSriar/gsDjrBZXH
+6LR6TTuzhQCF4k2va932XFw+z/v/RXiANXt9gwyIgx0OjI0tFIwVjpGTkZCPE5UClZgSlpmTHisq
+LVSjp0eonRKqIZwZmhaxoaCNHIWKAogMuYufl6ubq7ayv57DxsfByRhJp6ukFaPQ0RPVAtccxLWS
+v9vd27af3xe4vefayY7F4MXqyMvkwh2m9dQPwc740sEY8vPc2rkbKBCDOXQI/S0DCOmCOoaZHC58
+SC8bK4vZvOiD1k9iP2/M/0K+i7eqEB85OhaoXLkyTYOXMF9ieUju40RjNmUJG1Zx346M9zpuJPGP
+YVF5SEdSwGUy5YIJLWns2hUD5gSrV7490qqw01ZvXRvuFMtBo0VpZfT5dMWMoNuAwN6aO3hDpQSW
+OKi+wHq1wUywYyN6FMt1sODCZc9iU2yN8eK1rT4ULUhZ2VvLEgLwmUDX6dO8ifbKHAMYYkfToMiy
+E4y6Z78zbuo983U6rmHbuOFqRimhMw68oHnBiCmGmFdLtY3bTo58+Qeza9FGvwBd0OTc2ANn37bb
+kO+6dnPoHR7TrxblAZlvdQ6refrniqvXflzbetvKcPNjxt2d8+YewAVXA/9x5613iScbuJfaJgka
+uOB8KcQn4XQUVnOWY/otqB1+SZE0QX+9/ecZVJ9JFZoLo/Vl3l/vMNhgixCu042LYTX22oUYVegT
+jvDgZ5pNQF624R7+8ZZDgOGZKByKK0rAV1YdxhhlOiOpF6GOOuaT5UX5eJjdj15yqFSRc5hkCHgl
+RqUkeSs+CWWVVJIkJZztBdWYFNNIZyd9EYapX00gddThZWYa+RtLAa4pWnlNZtHWfTNK5MGj8/0z
+WyuoZLrnY3neBo6MHv3DyaikXtfLeAmlGoQgqh5yYquw5sBqrGxQhSqtuM4wa65oTPUqr8C6gGGw
+xBYL7LDGJqtsQsgu6+wGs3ns6kcEADs=
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/tritip.gif
+
+R0lGODlhCAAIAJECAP///5yanP///wAAACH5BAEAAAIALAAAAAAIAAgAAAIPlI8YKbEKngkgHlqf
+25IVADs=
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/Fav.gif
+
+R0lGODlhEAAQAOULAL26va2utaWmpaWmnJSWnP/7///393Nxcwie//f//86mIf///xCi/2t9pRii
+//+qlP+6rf/7nP+GY//3lP/zjP/Hvf91Uvf39//rjMaWGP/bhNbT1r3j/87n///v587PzpR5Kf/T
+c6WSe///94TH/3vD///35//La///nO/r5+/37//ne+e+St66Ut6yQv/LY//Xa9auMa2GGP///wAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAUUADMALAAAAAAQABAAAAaiwJlw
+BgAEjoIBYTkcAgpQAxRKODRngQJiy01UhwpFYMFomBuOwnemgGYbjwTk0Vh825GIoNBILCQSdXcT
+FBQDCQ0QFRIWDRd3GBmSk5STMxkaGQUbBRwcHZ8dHh8ZIBkhGREiIyQlrq4mIqUZJxkoIgsLKSYq
+Jikesqa1tyLFxsaztRErLC3Ozy4osy+pMNbX1jERpTMyld+SIEIg5OXm5TNBACH+H09wdGltaXpl
+ZCBieSBVbGVhZCBTbWFydFNhdmVyIQAAOw==
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/saveas.gif
+
+R0lGODlhEAAQANQAAAAAADA0nEhMnFBQrGBkzHB4pHCEvIyMvJyYzKysrLSwtLS0zLS43MTAxMTI
+3NTM1Nzc3OTk5Ozo3Ozs7P/4/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAlk
+ABIALAAAAAAQABAAAAVgoCSOZCkawtGs7HoIo0EcVG3XBwFLMt2ulNyud7sJTzPKrxHUIWlFnJNH
+mB2u2NxUVu16q0OwA7FIKB6BwFYcKCgglPRaxxgc4BN5mE5gUCYReiMChAqGh2mEJouMjSMhADs=
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/emailtofriend.gif
+
+R0lGODlhLQASAPfKAP////b29qWmt6anuJq336uyyqOpvluh6gOJ/1y9/77m/5nC5ubp8ZKardrg
+5Siw/0O0/zeN5jSV9VSS68za7Dqu/4uv1BR6//v9//3+/4nQ/3zE/uPl5nx+nhqj/6WntzFWs6er
+u/Hx9vHz9LTK5QSX/6eoudXl+fb6/1Zzref1+tLq+OTv+cvV49vp+gWZ/62swvn//zt2xfb4/Z2d
+rh1gyfD4/+nm5t3p99Xr9ufz+pvV/5mr0wmO/3KW0cDd/Ojz+2hrkSOO9Mrk/N/p83zK/8XF2RRr
++hFp5tvf4dOehfX5/8bJ3np/nxqm/4eHoPD0+iRn9ra60efy+IGv5ujo6A+D6PPw7r7z/w+D95rR
+/+/6/o2czHp9oN/k56HE4XyDo+Pi5Uyt+Pv+/4WY687w/MHEzf/+/6CgqmGi5eLq9Njf49ni85Gi
+4d7j8djd4tTc66Sjr97r+vX19bPN8tHOzl2Y3IS57h9Z993s+erw9pzX/5CTxe71/bjQ9vPy8p+p
+0fv8/kWy//H4/8XX7eHn8eDe3+72/7i707jR9/f396+xwP36+yFt9Pf29pe15V10r+Dv+V6d38vS
+48zS4////srg+d9zLqyv1Wl4xi6k9+zy/Ro608zU9TB/x8fa8e3t8LrZ+5HL/7vV+Ziw27TX/La6
+xg509OLl8f78//39/f/9/KXA6fX9//f5++Ll5uDj7+fn63fD/2JmoJ7K7d/j5Z+EiuTm5s/Z5fn7
+//j4+Pnx8f327eDi48Wms9vh4k+5/3qPwUKd6Aug/wCT/q/C5PT4/6HE9e32+QAAAP///wAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAMoALAAAAAAtABIA
+AAj/AJUJHEiwoMGDCBMedEWEQiGFECMazDWkDJYdPihJ3Kgwww8Fe+yAqCFDBMeTAuWccFFKS4II
+wfhw4QGLASpQCJMJ1DmQpzKfPgVaKrJBkBMrxSoBWMVoF69OiwryBEqQalCBbDS86HHqEYAzGFC0
+UnLJlwGpO3PuTMaWLUE3oY7g4ZQJCoAlg2yYsoUpRNW2gNsevCoQziYybQAh6nWrFgc9anD4+TA4
+Z1DCyiYB2HzllYMkv3B9IpQnkYDBgav+DOxWIBMAqWbECnOjxQQhmiSRGHXaoM6pqnsSNgLAWB8v
+b9YYulMCgqgvdAb4TnuV6s+CUsYcAjIlEosVFTzIaqJlgZWJ6WnRXu9JsECMLchU6MghhhgwKgQW
+HJMe3G3r6/8dBMMTTaQwCyQSIPBAGkF0AEYXcagW4GrrrZaaQKo4MsIBSERxwTDCNFBFAIoEMAdK
+JwVCSiNZeILGHyjGOJAZNNShi4wcBQQAOw==
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/printpage.gif
+
+R0lGODlhEAAQAMQAAPDw8O/v7+Dg4N/f39DQ0M/Pz8DAwLCwsKCgoJ+fn5CQkICAgGCfAHBwcP8A
+AM8AMAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAUU
+ABEALAAAAAAQABAAAAV2YCSO42KSaAkA0ZmKixAE4gBBqEkMc2Dni0jDYBgYcaXggEBYDA0QQ6PR
+ihgfjIK2sYhOIUER0/HQGkxOcIQo0hYUCtM3aDZEEom4M+1kEogICHAmNzBTZoFxNw1IUVINBYE3
+aUgRNwdSk4yVJDdnXZwvN6EiIQA7
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/face/1.gif
+
+R0lGODlhDwAPANUtAP/6u//4p//7zv/4n//83P/7yv/7x//70tXPgPHqkf/5sP/82f/81e7nj//4
+pf/5sc7IfOjhi//3neHah+bfiv/6v//4qvvzl9/Yhv/83f/70f/4q//82P/7xv/7y//6vf/6wP/8
+2/72mP/6xf/7ycvFevrylv/818K8dcG7dN/f3////wAAAKSkpAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC0ALAAAAAAPAA8AAAZ4wJZQ
+yCoWh8hWkcA5FEBHJIuQCTEEHYAiwBqyTouiwFApSkxd5YGl8bAArM2AleiyDAXSSGsJDC4JERNF
+H0aGhghFDywrKoyNjI4lRQ6Rj46QKEUiliuQkCl2DSyYnyyhRBQYRZ6Op6hECBCHKbBer7WhaUlK
+hklBADs=
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/tritip_up.gif
+
+R0lGODlhCAAHAIAAAJwAAP///yH5BAEAAAEALAAAAAAIAAcAAAINjAGmGdz6EJOnLntoKAA7
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dzjs.com/images/page_navtiler.gif
+
+R0lGODlhBAACAIAAALrM4////yH5BAAAAAAALAAAAAAEAAIAAAIEDBCZBQA7
+
+------=_NextPart_000_0000_01C49660.2DB749B0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dzjs.com/content.css
+
+BODY {
+	FONT-FAMILY: "song", "MS Shell Dlg"; FONT-SIZE: 12px; TEXT-ALIGN: =
+center
+}
+TD {
+	COLOR: #000000; FONT-FAMILY: "Song", "MS Shell Dlg"; FONT-SIZE: 12px
+}
+SELECT {
+	BACKGROUND-COLOR: #f5f5f5; COLOR: #000000; FILTER: Alpha(Opacity=3D50); =
+FONT-FAMILY: "song", "MS Shell Dlg", "=CB=CE=CC=E5"; FONT-SIZE: 12px
+}
+INPUT {
+	FONT-FAMILY: "song", "MS Shell Dlg", "=CB=CE=CC=E5"; FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff8000; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.headNavBorder {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+.newsList {
+	LINE-HEIGHT: 148%
+}
+.homeLoginInput {
+	BACKGROUND-COLOR: #f3f3f3
+}
+.content {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; =
+PADDING-TOP: 8px
+}
+.photo_boder {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; =
+BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid
+}
+.pagesimages {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid
+}
+.newfont {
+	COLOR: #ffffff; FILTER: Glow(Color=3Dffffff, Strength=3D1); =
+FONT-FAMILY: "=CB=CE=CC=E5"; FONT-SIZE: 9pt
+}
+.newfont1 {
+	COLOR: #ffffff; FILTER: Glow(Color=3D#Cfdvgh, Strength=3D1); =
+FONT-FAMILY: "=CB=CE=CC=E5"; FONT-SIZE: 9pt
+}
+.newfont2 {
+	COLOR: #9c4e4e; FILTER: Glow(Color=3Dffffff, Strength=3D1); =
+FONT-FAMILY: "=CB=CE=CC=E5"; FONT-SIZE: 9pt
+}
+.newfont3 {
+	COLOR: #caca00; FILTER: Glow(Color=3Dffffff, Strength=3D1); =
+FONT-FAMILY: "=CB=CE=CC=E5"; FONT-SIZE: 9pt
+}
+.text {
+	FILTER: DropShadow(Color=3D#cccccc, OffX=3D2, OffY=3D1, Positive=3D2); =
+FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.TextBorder {
+	BACKGROUND-COLOR: rgb(230,236,249); BORDER-BOTTOM: rgb(66,66,99) 1px =
+solid; BORDER-LEFT: rgb(66,66,99) 1px solid; BORDER-RIGHT: rgb(66,66,99) =
+1px solid; BORDER-TOP: rgb(66,66,99) 1px solid; FONT-SIZE: 12px
+}
+.TextBorder2 {
+	BACKGROUND-COLOR: rgb(196,210,241); BORDER-BOTTOM: rgb(66,66,90) 1px =
+solid; BORDER-LEFT: rgb(66,66,99) 1px solid; BORDER-RIGHT: rgb(66,66,99) =
+1px solid; BORDER-TOP: rgb(66,66,99) 1px solid; FONT-SIZE: 12px
+}
+.editbox1 {
+	BORDER-BOTTOM: #665b8e 1px solid; BORDER-LEFT: #665b8e 1px solid; =
+BORDER-RIGHT: #665b8e 1px solid; BORDER-TOP: #665b8e 1px solid; COLOR: =
+#333333; CURSOR: text; FONT-FAMILY: "Arial"; FONT-SIZE: 12px; HEIGHT: =
+20px; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; =
+PADDING-TOP: 1px
+}
+.editbox2 {
+	BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-WIDTH: 1px; COLOR: #333333; CURSOR: text; FONT-FAMILY: =
+"Arial"; FONT-SIZE: 12px
+}
+.editbox3 {
+	BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-WIDTH: =
+1px; BORDER-TOP-WIDTH: 1px; COLOR: #333333; CURSOR: text; FONT-FAMILY: =
+"=CB=CE=CC=E5"; FONT-SIZE: 12px
+}
+A.a01:link {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a01:visited {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a01:active {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A.a01:hover {
+	COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A.a02:link {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a02:visited {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a02:active {
+	COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A.a02:hover {
+	COLOR: #ff0000; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.s01 {
+	BACKGROUND-COLOR: #f6f6f6; BORDER-BOTTOM: #000000 1px solid; =
+BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; =
+BORDER-TOP: #000000 1px solid; VERTICAL-ALIGN: text-bottom
+}
+.s02 {
+	BACKGROUND-COLOR: #dee7fb; BORDER-BOTTOM: #000000 1px solid; =
+BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; =
+BORDER-TOP: #000000 1px solid; VERTICAL-ALIGN: text-bottom
+}
+.s03 {
+	BACKGROUND-COLOR: #f7f7f7; BORDER-BOTTOM: #939598 1px solid; =
+BORDER-LEFT: #939598 1px solid; BORDER-RIGHT: #939598 1px solid; =
+BORDER-TOP: #939598 1px solid; VERTICAL-ALIGN: text-bottom
+}
+.button2 {
+	BACKGROUND-COLOR: #eeeeee; COLOR: #000000; FONT-FAMILY: =
+=C1=A5=CA=E9=A3=BB font-size:12px
+}
+.td_bottom_black {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: black 0px solid; =
+BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid
+}
+.td_top_black {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: black 0px solid; =
+BORDER-RIGHT: black 0px solid; BORDER-TOP: black 1px solid
+}
+.td_top_yellow {
+	BORDER-BOTTOM: black 0px solid; BORDER-LEFT: black 0px solid; =
+BORDER-RIGHT: black 0px solid; BORDER-TOP: #cccc99 1px solid
+}
+.td_black {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; =
+BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid
+}
+.td_yellow {
+	BORDER-BOTTOM: #cccc99 2px solid; BORDER-LEFT: #cccc99 2px solid; =
+BORDER-RIGHT: #cccc99 2px solid; BORDER-TOP: #cccc99 2px solid
+}
+.td_blue {
+	BORDER-BOTTOM: #b0d6e6 1px solid; BORDER-LEFT: #b0d6e6 1px solid; =
+BORDER-RIGHT: #b0d6e6 1px solid; BORDER-TOP: #b0d6e6 1px solid
+}
+.td_blue1 {
+	BORDER-BOTTOM: #639ace 2px solid; BORDER-LEFT: #639ace 2px solid; =
+BORDER-RIGHT: #639ace 2px solid; BORDER-TOP: #639ace 2px solid
+}
+.td_col_blue {
+	BORDER-BOTTOM: black 0px solid; BORDER-LEFT: #b0d6e6 1px solid; =
+BORDER-RIGHT: #b0d6e6 1px solid; BORDER-TOP: black 0px solid
+}
+.td_col_black {
+	BORDER-BOTTOM: black 0px solid; BORDER-LEFT: #999999 1px solid; =
+BORDER-RIGHT: #999999 1px solid; BORDER-TOP: black 0px solid
+}
+.table_yellow {
+	BORDER-BOTTOM: #cccc99 2px solid; BORDER-LEFT: #cccc99 2px solid; =
+BORDER-RIGHT: #cccc99 2px solid; BORDER-TOP: #cccc99 2px solid
+}
+.table_black {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; =
+BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid
+}
+.Lt {
+	TEXT-DECORATION: line-through
+}
+.text_underline {
+	COLOR: #993300; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.articleleft {
+	BORDER-BOTTOM: #808080 0px solid; BORDER-LEFT: #808080 1px solid; =
+BORDER-RIGHT: black 0px solid; BORDER-TOP: #808080 1px solid
+}
+.articleright {
+	BORDER-BOTTOM: #808080 0px solid; BORDER-LEFT: black 0px solid; =
+BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid
+}
+.tdrightgray {
+	BORDER-BOTTOM: black 0px solid; BORDER-LEFT: black 0px solid; =
+BORDER-RIGHT: #666666 1px solid; BORDER-TOP: black 0px solid
+}
+.sup {
+	FONT-SIZE: 7pt; VERTICAL-ALIGN: super
+}
+
+------=_NextPart_000_0000_01C49660.2DB749B0--
