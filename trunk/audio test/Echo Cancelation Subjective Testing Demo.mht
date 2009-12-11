@@ -1,0 +1,1902 @@
+From: <ÓÉ Microsoft Internet Explorer 5 ±£´æ>
+Subject: Echo Cancelation Subjective Testing Demo
+Date: Tue, 24 Nov 2009 11:46:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CA6CFB.CB9437C0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3350
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://F:\NetDisk\GoogleDisk\HWMobileDesign\Platforms\platform2\ptWCDMA\HSDPAspec\6250spec\WCDMA Audio\Audio doc\audio doc\Echo Cancelation Subjective Testing Demo.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from =
+url=3D(0078)http://www.adaptivedigital.com/multimedia_demo/adt_g168_subje=
+ctive_testing.htm --><HTML><HEAD><TITLE>Echo Cancelation Subjective =
+Testing Demo</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252"><LINK=20
+href=3D"/multimedia_demo/adt_g168_subjective_testing.htm" =
+rel=3DEdit-Time-Data><LINK=20
+href=3D"ADT_G168_Subjective_Testing_files/oledata.mso" =
+rel=3DOLE-Object-Data>
+<STYLE>.Normal {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+.MsoToc1 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial; tab-stops: right dotted 6.0in
+}
+.MsoToc2 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+.MsoCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+</STYLE>
+
+<SCRIPT language=3DJavaScript>=0A=
+<!--=0A=
+function MM_swapImgRestore() { //v3.0=0A=
+  var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;=0A=
+}=0A=
+=0A=
+function MM_preloadImages() { //v3.0=0A=
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();=0A=
+    var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)=0A=
+    if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}=0A=
+}=0A=
+=0A=
+function MM_findObj(n, d) { //v4.01=0A=
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {=0A=
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}=0A=
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];=0A=
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);=0A=
+  if(!x && d.getElementById) x=3Dd.getElementById(n); return x;=0A=
+}=0A=
+=0A=
+function MM_swapImage() { //v3.0=0A=
+  var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; =
+for(i=3D0;i<(a.length-2);i+=3D3)=0A=
+   if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; =
+if(!x.oSrc) x.oSrc=3Dx.src; x.src=3Da[i+2];}=0A=
+}=0A=
+//-->=0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.2900.3462" name=3DGENERATOR></HEAD>
+<BODY class=3DNormal lang=3DEN-US vLink=3Dpurple link=3Dblue =
+bgColor=3D#ffffff=20
+onload=3D"MM_preloadImages('/graphics/nav/nr_d.gif','/graphics/nav/pr_d.g=
+if','/graphics/nav/cp_d.gif','/graphics/nav/sr_d.gif','/graphics/nav/cn_d=
+.gif','/graphics/nav/si_d.gif')">
+<DIV align=3Dcenter><!-- #BeginLibraryItem "/Library/top_nav.lbi" --><A=20
+onmouseover=3D"MM_swapImage('nr','','/graphics/nav/nr_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/news/news.htm"><IMG height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/nr_u.gif"=20
+width=3D125 border=3D0 name=3Dnr></A><A=20
+onmouseover=3D"MM_swapImage('pr','','/graphics/nav/pr_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/products/prod_list_ov.htm"><IMG =
+height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/pr_u.gif"=20
+width=3D125 border=3D0 name=3Dpr></A><A=20
+onmouseover=3D"MM_swapImage('cp','','/graphics/nav/cp_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/corp/corp_index.htm"><IMG =
+height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/cp_u.gif"=20
+width=3D125 border=3D0 name=3Dcp></A><A=20
+onmouseover=3D"MM_swapImage('sr','','/graphics/nav/sr_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/services/serv_index_con.htm"><IMG =
+height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/sr_u.gif"=20
+width=3D125 border=3D0 name=3Dsr></A><A=20
+onmouseover=3D"MM_swapImage('cn','','/graphics/nav/cn_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/contact/contact_index.htm"><IMG =
+height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/cn_u.gif"=20
+width=3D125 border=3D0 name=3Dcn></A><A=20
+onmouseover=3D"MM_swapImage('si','','/graphics/nav/si_d.gif',1)"=20
+onmouseout=3DMM_swapImgRestore()=20
+href=3D"http://www.adaptivedigital.com/site_map.htm"><IMG height=3D22=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/si_u.gif"=20
+width=3D125 border=3D0 name=3Dsi></A><!-- #EndLibraryItem --><BR><IMG =
+height=3D99=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/adaptivedigital_header.gif"=
+=20
+width=3D380> <FONT face=3D"Tahoma, Arial, sans-serif"></FONT></DIV>
+<P style=3D"TEXT-ALIGN: center" align=3Dcenter>&nbsp;</P>
+<P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+face=3D"Tahoma, Arial, sans-serif"><SPAN style=3D"FONT-SIZE: 16pt"><FONT =
+
+color=3D#686b7d size=3D4>Adaptive Digital Technologies,=20
+Inc.</FONT></SPAN></FONT></P>
+<P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+face=3D"Tahoma, Arial, sans-serif" color=3D#686b7d size=3D4><SPAN=20
+style=3D"FONT-SIZE: 16pt">G.168 Echo Canceller Multimedia =
+Demo</SPAN></FONT></P>
+<DIV=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: =
+windowtext 1.5pt solid; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; =
+BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext =
+1.5pt solid">
+<P=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: =
+medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; BORDER-LEFT: medium =
+none; PADDING-TOP: 0in; BORDER-BOTTOM: medium none; TEXT-ALIGN: =
+center"><FONT=20
+face=3D"Tahoma, Arial, sans-serif" size=3D2>=A9&nbsp; 2001, Adaptive =
+Digital=20
+Technologies, Inc.<BR>1100 East Hector Street =95 Suite 210 =95 =
+Conshohocken, PA=20
+19428 <BR>Voice 610-825-0182 =95 Fax 610-825-7616 =95 <A=20
+href=3D"mailto:info@adt-inc.com">mailto:info@adt-inc.com</A>&nbsp; =95 =
+<A=20
+href=3D"http://www.adt-inc.com/"><SPAN>http://www.adaptivedigital.com/</S=
+PAN></A></FONT></P></DIV>
+<P style=3D"TEXT-ALIGN: center"><FONT face=3D"Tahoma, Arial, sans-serif" =
+
+size=3D2><B>&nbsp;<FONT color=3D#6b697b size=3D3>Table of=20
+Contents</FONT></B></FONT></P>
+<P class=3DMsoToc1><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>1.<SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN>Introduction.=
+.........................................................................=
+...........................=20
+1 </FONT></P>
+<P class=3DMsoToc1><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.<SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN>Echo Canceller=20
+Overview.................................................................=
+...................=20
+1 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.1<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Perception of=20
+Echo.....................................................................=
+.......................=20
+2 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.2<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Echo=20
+Tail.....................................................................=
+....................................=20
+3 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.3<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Adaptive=20
+Filtering................................................................=
+.............................=20
+4 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.4<SPAN>&nbsp;&nbsp;&nbsp;=20
+</SPAN>Double-Talk.......................................................=
+..............................................=20
+4 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.5<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Residual Echo and Nonlinear=20
+Processing............................................................. =
+4=20
+</FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>2.6<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Comfort Noise=20
+Generation...............................................................=
+..................=20
+4 </FONT></P>
+<P class=3DMsoToc1><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>3.<SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN>Subjective =
+Test=20
+Results..................................................................=
+..................=20
+5 </FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>3.1<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Convergence with no Near End =
+
+Speaker............................................................. 5=20
+</FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>3.2<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Convergence in the Presence =
+of=20
+Background Noise.............................................. 5 =
+</FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>3.3<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Performance in the Presence =
+of=20
+Double-Talk....................................................... 6 =
+</FONT></P>
+<P class=3DMsoToc2><FONT face=3D"Tahoma, Arial, sans-serif"=20
+size=3D2>3.4<SPAN>&nbsp;&nbsp;&nbsp; </SPAN>Non-divergence in the =
+Presence of=20
+Tones........................................................... 6=20
+</FONT></P><FONT face=3D"Tahoma, Arial, sans-serif"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial"><BR=20
+style=3D"PAGE-BREAK-BEFORE: always" clear=3Dall></SPAN></FONT>
+<H1><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc434805841></A><A=20
+name=3D_Toc521897103><B><FONT face=3D"Georgia, Times New Roman, Times, =
+serif"=20
+color=3D#77765e size=3D3>1.<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN>Introduction</FONT></B></A></FONT></H1>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>At Adaptive Digital =
+
+Technologies, we are well known for our echo canceller technology. Our =
+G.168=20
+compliant echo canceller and its predecessor G.165 echo canceller have =
+been=20
+deployed around the world and continue to provide carrier class voice=20
+quality.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>The International=20
+Telecommunications Union (ITU), in writing the G.168 echo canceller=20
+specification, has created a common method for objectively testing echo=20
+cancellers using a set of test procedures. The ITU specifies minimum =
+performance=20
+requirements for these tests. The goal is to ensure that G.168 compliant =
+echo=20
+cancellers perform well in the telephone network.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>While the G.168 =
+tests have=20
+merit, G.168 compliance does not guarantee good voice quality. =
+Consequently, the=20
+objective test results should always be supplemented with subjective =
+voice=20
+quality testing.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This document is =
+discusses=20
+subjective testing and includes sound clips so that the reader can =
+evaluate=20
+Adaptive Digital Technologies=92 echo canceller subjectively.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Section 2 of this =
+document=20
+provides a brief overview of echo cancellation. Section 3 discusses the =
+tests=20
+and provides links to sound clips.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Throughout this =
+document, you=20
+will find the following icon, which can be clicked to listen to sample =
+speech=20
+clips:</FONT></P>
+<P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+face=3D"Tahoma, Arial, sans-serif"><A=20
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_0_=
+6.wav"><SPAN=20
+style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+height=3D36=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image003.gif"=20
+width=3D40 border=3D0 v:shapes=3D"_x0000_i1086"> </SPAN></A></FONT></P>
+<H1><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc520775699></A><A=20
+name=3D_Toc521897104><B><FONT face=3D"Georgia, Times New Roman, Times, =
+serif"=20
+color=3D#77765e size=3D3>2.<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Echo=20
+Canceller Overview</FONT></B></A></FONT></H1>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>The telephone =
+network contains=20
+sources of electrical echo whenever a conversion is done between a =
+2-wire=20
+circuit and a 4-wire circuit. The most common device that connects to a =
+2-wire=20
+circuit is the standard analog telephone. The telephone is connected to =
+the=20
+telephone central office by a pair of wires. This pair of wires carries =
+speech=20
+signals from the telephone to the central office (receive) and from the =
+central=20
+office to the telephone (transmit). At the central office, the 2-wire =
+circuit is=20
+converted to a 4-wire circuit using a hybrid circuit. The resulting =
+4-wire=20
+circuit uses one pair of wires for each direction of =
+transmission.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>A hybrid circuit =
+does its best=20
+to prevent from the signal being received via the 4-wire circuit from =
+being=20
+reflected and echoed back. Hybrid circuits provide some echo isolation, =
+but not=20
+enough when the end-to-end circuit delay is even moderate.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>In order to combat =
+the echo=20
+phenomenon, an echo canceller is employed. Today=92s echo cancellers use =
+
+sophisticated algorithms running on high speed Digital Signal Processors =
+(DSPs)=20
+to combat the echo.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Figure 2-1 below is =
+a block=20
+diagram of a telephone circuit, including the echo source and the echo=20
+canceller.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif"><IMG height=3D355=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image005.gif"=20
+width=3D474 border=3D0 v:shapes=3D"_x0000_i1026"> </FONT></P>
+<P class=3DMsoCaption><FONT face=3D"Tahoma, Arial, sans-serif"><A=20
+name=3D_Toc488485113><FONT face=3D"Georgia, Times New Roman, Times, =
+serif"=20
+color=3D#77765e size=3D2><B><FONT size=3D3>Figure 2.<SPAN>1</SPAN>: =
+Telephone=20
+Circuit</FONT></B></FONT></A></FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Phone A=92s =
+transmission passes=20
+through Hybrid A, through Echo Canceller A, through the Telephone =
+Network,=20
+through Echo Canceller B, through Hybrid B to telephone B. A similar =
+path is=20
+established in between Phone B and Phone A.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>When Phone A=92s =
+transmission=20
+reaches Hybrid B, part of the signal is reflected by the hybrid back =
+towards=20
+Echo Canceller B and therefore back to Phone A. If echo cancellation is =
+not=20
+performed (and the network delay is moderate), the speaker at Phone A =
+will=20
+perceive his echo.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>It is the =
+responsibility of=20
+Echo Canceller B to cancel the echo that is induced by Hybrid B. =
+Likewise, it is=20
+the responsibility of Echo Canceller A to cancel the echo that is =
+induced by=20
+Hybrid A.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>The terminology =
+Near End and=20
+Far End are usually used when referring to an echo canceller. For =
+example, the=20
+Far End signal enters echo canceller A and passes through unchanged and =
+is sent=20
+out to the hybrid. The hybrid, which is at the Near End with respect to =
+echo=20
+canceller A, reflects a portion of the far end signal back towards the =
+echo=20
+canceller. The Near End signal received by echo canceller A therefore =
+consists=20
+of the sum of Phone A=92s transmit signal and the echo of the far end =
+induced by=20
+Hybrid A.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Now that we have =
+the network=20
+topology and terminology described, we need to discuss a few issues that =
+are=20
+faced by echo cancellers.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc521897105><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.1<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Perception=20
+of Echo</FONT></B></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Perception of echo =
+is quite=20
+subjective. Each person has a different tolerance for echo. The =
+tolerance tends=20
+to be a function of the relative level of the echo and the delay between =
+the=20
+outgoing speech and the returned echo. </FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>We define Echo =
+Return Loss=20
+(ERL) as the ratio (in dB) between the level of outgoing speech and the =
+level of=20
+the returned echo component. A high ERL means that the echo is small.=20
+Conversely, a small ERL means that the echo level is high.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>We also define the =
+round trip=20
+delay to be the amount of time elapsed between the start of an outgoing=20
+utterance and the echoed utterance.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>A person=92s =
+tolerance of echo is=20
+hence a function of round trip delay and echo return loss. You listen =
+for=20
+yourself by clicking on the icons in the table below:</FONT></P>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D1>
+  <TBODY>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">Round=20
+      Trip Delay (msec.)</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">ERL =3D 6=20
+      dB</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">ERL =3D 12=20
+      dB</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">ERL =3D 24=20
+      dB</SPAN></I></B></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I>0</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_0_=
+6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image006.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1027"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_0_=
+12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image007.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1028"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_0_=
+24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image008.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1029"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>10</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image009.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1030"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image010.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1031"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image011.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1032"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>20</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image012.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1033"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image013.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1034"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image014.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1035"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>50</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image015.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1036"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image016.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1037"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image017.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1038"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>100</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+0_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image018.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1039"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+0_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image019.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1040"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_10=
+0_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image020.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1041"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>200</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+0_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image021.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1042"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+0_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image022.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1043"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_20=
+0_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image023.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1044"> =
+</SPAN></A></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, =
+sans-serif"><B><I>500</I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D94 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+0_6.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image024.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1045"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D96 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+0_12.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image025.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1046"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t1n_50=
+0_24.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image026.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1047">=20
+  </SPAN></A></FONT></P></TD></TR></TBODY></TABLE>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc488485168></A><A=20
+name=3D_Toc520775700></A><A name=3D_Toc521897106><SPAN><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.2<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Echo=20
+Tail</FONT></B></SPAN></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>A hybrid circuit =
+does not=20
+create a brick-wall echo. A brick wall echo refers to one where the =
+response of=20
+a far end impulse would be an echoed impulse. Since the hybrid is a =
+circuit, the=20
+impulse response of the echo path is of a diffuse nature. The impulse =
+response=20
+of the hybrid circuit is referred to as the echo tail. The duration of =
+the echo=20
+tail is referred as the tail length. &nbsp;An echo canceller must cancel =
+the=20
+entire tail.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>To make matters =
+more=20
+interesting, it is possible that multiple echo sources can be present in =
+the=20
+network. This situation is referred to as one with multiple echo tails. =
+A good=20
+echo canceller will cancel echo due to all the echo sources in the =
+network.=20
+</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>ADT=92s echo =
+canceller finds the=20
+locations of multiple tails and cancels them.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc488485169></A><A=20
+name=3D_Toc520775701></A><A name=3D_Toc521897107><SPAN><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.3<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Adaptive=20
+Filtering</FONT></B></SPAN></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>As each hybrid =
+circuit is=20
+slightly different, each echo tail is different as well. Many factors =
+determine=20
+the echo path. It is even possible for an echo tail to change while a =
+circuit is=20
+active. This could happen when a second telephone extension is taken =
+off-hook in=20
+parallel with the first one.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Due to these =
+variations in echo=20
+tails, it is necessary for an echo canceller to adapt to the tail =
+continuously.=20
+Adaptive Filtering is employed within echo cancellers to this end. The =
+adaptive=20
+filters should converge quickly, but not so quickly that they might =
+diverge=20
+under some conditions.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This is especially =
+important=20
+when a circuit is first established. The amount of time it takes the =
+echo=20
+canceller to adapt to an echo path is referred to as the =93convergence=20
+time=94.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc488485170></A><A=20
+name=3D_Toc520775702></A><A name=3D_Toc521897108><SPAN><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.4<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN>Double-Talk</FONT></B></SPAN></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>An echo canceller =
+adapts its=20
+filter based upon a comparison of the far end signal and the echo of the =
+far end=20
+signal that is returned via the near end signal. Ideally, the signal =
+from the=20
+near end telephone is quite. If this is not the case, the echo canceller =
+cannot=20
+discern between near end speech and echo. The near end speech appears as =
+
+interference to the filter adaptation algorithm. </FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>The condition where =
+both=20
+parties are speaking is referred to as double-talk. If a double-talk =
+condition=20
+is not detected properly by the echo canceller, the near end speech will =
+cause=20
+the adaptive filter to diverge. It is therefore important to have a =
+reliable=20
+double-talk detector.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Double-talk =
+detectors do not=20
+detect double-talk instantaneously. As a result, there is a brief period =
+of=20
+double-talk during which the adaptive filter might diverge. In order to =
+combat=20
+this situation, ADT=92s echo canceller remembers a better, more =
+converged, state=20
+of the adaptive filter and reverts back to it when double-talk is =
+detected. This=20
+enables ADT=92s echo canceller to incur zero divergence due to the onset =
+of the=20
+double-talk condition.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc488485171></A><A=20
+name=3D_Toc520775703></A><A name=3D_Toc521897109><SPAN><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.5<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Residual=20
+Echo and Nonlinear Processing</FONT></B></SPAN></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>Echo cancellers are =
+not=20
+perfect. There is nominally some residual echo that gets past the echo=20
+canceller. This residual echo is handled using a non-linear processor. =
+The=20
+non-linear processor (NLP) acts to remove the residual echo under =
+certain=20
+conditions.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc488485172></A><A=20
+name=3D_Toc520775704></A><A name=3D_Toc521897110><SPAN><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>2.6<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Comfort=20
+Noise Generation</FONT></B></SPAN></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>The simplest form =
+of nonlinear=20
+processor will mute the residual echo when the NLP is engaged. It is not =
+always=20
+good to mute the residual echo because as a result, near end background =
+noise=20
+will be muted also. This results in the background noise being pulsed on =
+and off=20
+as the nonlinear processor activates and deactivates. In order to avoid =
+this=20
+unwanted pulsing, a comfort noise generator is used. When using a =
+comfort noise=20
+generator in conjunction with a NLP, the residual echo is replaced by a=20
+synthesized noise signal whose level is that of the background noise. =
+This=20
+improves perceived voice quality.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>While it is =
+necessary for the=20
+synthesized comfort noise to be generated at the same level as that of =
+the=20
+background noise, this by itself is not sufficient for optimum voice =
+quality. If=20
+the spectrum of the comfort noise is not similar enough to that of the=20
+background noise, the listener will be able to hear the transition =
+between=20
+background and comfort noise. Shaped comfort noise is desirable because=20
+background noise is, in general, does not have a flat =
+spectrum.</FONT></P>
+<H1><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc521897111><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>3.<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Subjective=20
+Test Results</FONT></B></A></FONT></H1>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This section =
+discusses the=20
+various sound clips that can be used for subjective evaluation of the =
+Adaptive=20
+Digital Technologies=92 G.168 echo canceller.</FONT></P>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc521897112><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>3.1<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Convergence=20
+with no Near End Speaker</FONT></B></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This test is run =
+with a far end=20
+speaker talking. The near end signal contains only the echo of the far =
+end=20
+signal. No near end speaker is talking. This test demonstrates the =
+convergence=20
+of the echo canceller. This test is run with and without the non-linear=20
+processor (NLP) enabled. </FONT></P>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D1>
+  <TBODY>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP=20
+      Off</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D104 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP=20
+      On</SPAN></I></B></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D108 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t2n_nd=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image027.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1076">=20
+    </SPAN></A></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D104 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t2n_nm=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image028.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1077">=20
+  </SPAN></A></FONT></P></TD></TR></TBODY></TABLE>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc521897113><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>3.2<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Convergence=20
+in the Presence of Background Noise</FONT></B></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This test is run =
+with a far end=20
+speaker talking. The near end signal contains the sum of the echo of the =
+far end=20
+signal and additive background noise. This test demonstrates the =
+convergence of=20
+the echo canceller in the presence of background noise. This test is run =
+with=20
+nonlinear-processor (NLP) in each of the following four=20
+configurations:</FONT></P>
+<OL type=3D1>
+  <LI>
+  <P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>NLP Off - In this =
+case, the=20
+  residual echo is heard at the start of the speech segment while the =
+echo=20
+  canceller initially converges.</FONT></P></LI></OL>
+<OL type=3D1 start=3D2>
+  <LI>
+  <P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>NLP Mute - In =
+this case, the=20
+  residual echo is muted along with the background =
+noise.</FONT></P></LI></OL>
+<OL type=3D1 start=3D3>
+  <LI>
+  <P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>NLP CNG Random - =
+In this=20
+  case, the residual is replaced by random noise. The listener will note =
+that=20
+  the comfort noise does not appear at the correct level for the first =
+few=20
+  seconds. This is due to the time it takes the comfort noise generator =
+to=20
+  determine the level of the background noise.&nbsp; The transitions =
+between=20
+  true background and comfort noise are quite noticeable because random =
+noise is=20
+  not spectrally similar to the background noise.</FONT></P></LI></OL>
+<OL type=3D1 start=3D4>
+  <LI>
+  <P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>NLP CNG Shaped - =
+In this=20
+  case, the residual is replaced by shaped noise. Once again, the =
+listener will=20
+  note that the comfort noise does not appear at the correct level for =
+the first=20
+  few seconds. This is due to the time it takes the comfort noise =
+generator to=20
+  determine the level of the background noise.&nbsp; The transitions =
+between=20
+  true background and comfort noise are less apparent than in the random =
+noise=20
+  case because the spectrum of the shaped noise is close to that of the=20
+  background noise.</FONT></P></LI></OL>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D1>
+  <TBODY>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP=20
+      Off</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP=20
+      Mute</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP CNG=20
+      Random</SPAN></I></B></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3Dmaroon>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><B><I><SPAN style=3D"COLOR: =
+white">NLP CNG=20
+      Shaped</SPAN></I></B></FONT></P></TD></TR>
+  <TR>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t3n_nd=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image029.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1079"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t3n_nm=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image030.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1078"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t3n_nr=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image031.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1080"> =
+</SPAN></A></FONT></P></TD>
+    <TD class=3DNormal vAlign=3Dtop width=3D148 bgColor=3D#ffffef>
+      <P style=3D"TEXT-ALIGN: center" align=3Dcenter><FONT=20
+      face=3D"Tahoma, Arial, sans-serif"><A=20
+      =
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t3n_nh=
+.wav"><SPAN=20
+      style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+      height=3D36=20
+      =
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image032.gif"=20
+      width=3D40 border=3D0 v:shapes=3D"_x0000_i1081">=20
+  </SPAN></A></FONT></P></TD></TR></TBODY></TABLE>
+<H2><FONT face=3D"Tahoma, Arial, sans-serif"><A =
+name=3D_Toc521897114><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>3.3<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Performance=20
+in the Presence of Double-Talk</FONT></B></A></FONT></H2>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This test is run =
+with a far end=20
+speaker talking. The near end signal contains the sum of the echo of the =
+far end=20
+signal and a simulated near end speaker with increasing and then =
+decreasing=20
+amplitude. The simulated near end speech signal is the ITU recommended =
+Composite=20
+Speech Signal (CSS). The simulated near end speaker provides a =
+double-talk=20
+condition. This test is run with the NLP off.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif"><A=20
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t4n_nd=
+.wav"><SPAN=20
+style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+height=3D36=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image033.gif"=20
+width=3D40 border=3D0 v:shapes=3D"_x0000_i1082"> </SPAN></A></FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2><A =
+name=3D_Toc521897115><B><FONT=20
+face=3D"Georgia, Times New Roman, Times, serif" color=3D#77765e =
+size=3D3>3.4<SPAN=20
+style=3D"FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN>Non-divergence in the Presence of Tones</FONT></B></A></FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif" size=3D2>This test is run =
+with a far end=20
+speaker talking. A sequence of DTMF tones is inserted into the middle of =
+the far=20
+end speech. The near end signal consists only of an echo of the far end =
+speech.=20
+This test is run with the NLP off.</FONT></P>
+<P><FONT face=3D"Tahoma, Arial, sans-serif"><A=20
+href=3D"http://www.adaptivedigital.com/multimedia_demo/sounds/set1/t5n_nd=
+.wav"><SPAN=20
+style=3D"COLOR: windowtext; TEXT-DECORATION: none; text-underline: =
+none"><IMG=20
+height=3D36=20
+src=3D"file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/p=
+tWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Ca=
+ncelation%20Subjective%20Testing%20Demo.files/image034.gif"=20
+width=3D40 border=3D0 v:shapes=3D"_x0000_i1083"> =
+</SPAN></A></FONT></P></BODY></HTML>
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/nr_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaOpnKCll5qfkpmZmZecjpGWiY6T
+hYeNf4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1RaS1FXSP4BAgAAAAAAAAAAACH5BAUU
+ABwALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0vQu//wKBwSCwaj8ik8rfQ5Z64qFMK
+nVqrsCaWyr12t95wlbcsDwuFJOFAOB/M8KWWO1E9DAKDBsMvAC4nFCYTAQERERYTJRt8GAcsFxYP
+FRgtBRkTEBkRK3UsARBfojteGwwmd3kPnX4AGwgiGSIXIgYlgCSys3gkB7QnGQElD6ElGaclExKj
+YFlKGBQJPRBvBxBACQ4CDBAUAgUSPRhpPxg+5t/hPxLkDtLl5egCBBTycUpzU4AVAwKpeo1aWfgj
+gJYDWCMuIBuhAcIDhSQg2FJhYBXBFhJFCKjAQIEIQrqaMSORDwouQP8s5qIIVkeBgkooKHgckYEC
+hUIRJ5qomBBGRlUCZBFQBFOkGJLPehDAIKHaNSASLLyzYK9HhnMCLJATcECdD3bT3mHt4YCBAAgM
+KLyhsPUekpJRcAEosAEPzxYHNpSoUKwAwl8X5RbsR6IAYAAhATQo5o9XBpg/R4aBe0OwArt7+piI
+UEJBq4KIZl40IGgvhQcTiha+EAECaxWAHzwCkODB0dtk3Jpho4a3kAJvdAsHQtmoccnHbycvjry5
+cufJc+QeTr26dXzPs0eHzl0Hc+3dt4PHfb28+fM9votfH7699/Hs4bs3uiAEADs=
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/pr_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaCll5qfkpmZmZecjpGWiY6ThYeN
+f4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1RaS1FXSP4BAgAAAAAAAAAAAAAAACH5BAUU
+ABsALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0rQu//wKBwSCwaj8ik8qfQ5Z64qFMK
+nVqrsCaWyr12t95wlbcsm8/o9FH7bQ8O7VvgMHAKDOB8nD3VXC4UBSQHGRYWFAEBJAUYEg8YECqG
+Fo0EJhYlDnAiFBQPEhhwCRcaFhEkCBQQGHF6VmRIFz0FFT0HD7O1PRgEPg+4PbK2GT7CAg8Hwcm+
+xT/Cy2rRfFAWJxeDDiUUIwwILdcimCcLDOGZcAanMuIkD+Wu8FLTURkPDhbeAAcWDo8DI9VaPDBg
+TlJBAJoQbprBToSESK0i6oB1JBQ0AQcmYGjgLAiyYECEGfv4cYgxHw0mrkRbOe9GQBQHsoEb4SCf
+tUsoEEA4mHCAOoYxJtSJJ8ZGSxovT8TUJwEFqxIMHuAcEeCCIgGsAFojeKLBVBJeAUQYKpHoCYpG
+TtoC9mCBjwIXIjyI6+wPhgoFfCDAMNdtsQoPIoRq5mPChAgqV6o5WpbFmzgHrrKYQ1bGgH+Ni+7Q
+bDZzZ857FIseTdoMY9CoP6vOfHp1as+ww6AtTbt26daxXevO3QL369+7gRsNAQA7
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/cp_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaOpnKCll5qfkpmZmZecjpGWiY6T
+hYeNf4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1RaS1FXSP4BAgAAAAAAAAAAACH5BAUU
+ABwALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0vQu//wKBwSCwaj8ik8rfQ5Z64qFMK
+nVqrsCaWyr12t95wlbcsm8/o9FH7BRgOtcAhIK4ZCu26Hsy2QjIPEhkNKhcVEBUXKg8ZGBgTJ46O
+CCiCDxQZAycHGheGAXQlFSoKFxsXESOenhJ5YCdkSBAQP7Q9GAc+Bxg+ELkCDg63Phm9tgIExT0H
+tgUWPwwaBEC8PtVqSn1QijUDrZUDIg8GIwgOJBgmGSXcJeYkBw+iKhkGFC3p7K+uLdo4Bg9oPICD
+Ip64CRAitMPw4IEFeQIAwsh34MKDP5rgybOAj8WqC9/2hYllhNkQX0BMxgqYpSHBD1wHpi07Zm0Z
+JmEvKUDAQPOaAJ/Y1nhpt8JASBISwgkYd2ACinwriAJ4B8AgVAABLBh4c+GpR5FgSfi7cZFFQHRK
+AQyAOm6pgkg1HpwrUUxjVacjJuAR0eAtuq/89JA8ImhWBpw9LOik4BOlAAsFhgnZCUFQ5Jk9IDBI
+DOSZ5FuSJAQ1MhbKmzhz9rC4Ezis6h2vXctuTXvk6Nu4c5spXXt27N61ef8e7rt4nsG6kyvXLdw4
+ceDPdTSH7rw69X4hAAA7
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/sr_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaOpnKCll5qfkpmZmZecjpGWiY6T
+hYeNf4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1RaS/4BAgAAAAAAAAAAAAAAACH5BAUU
+ABsALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0veu7jwF7wJywSYQuBcslsOp/QqHRK
+rVqvTN5xyDV2t94wMYktm8/oNFXbPQTEX0DgMBDO4/D8iS28QDIKIwYaF4V1f4UTIgYPKowjFyoV
+FRATGQckiIUiCBUSGXp4YHtWBxBKBUqmTRAHSg4OShlMFgRKGEsYrkunAq1NuAK7asRQfD+zLAYQ
+LRAGnA0jCgwkBIqQghI2zikP0aLgecdAAxl1goSGAJUPEhcooAAUz9gAD5gxmu8jE9qh/2OwEMCQ
+SlgvXhA0JGDlygKTYL+eRGzigEKxi07G9RBQQRAzFM4MUGhBoEIDaiUikQEY4A8GtxkTBowKNxOA
+xhkKArzpCGBZs2cQFKSYoDLlCQz0SDjIlFREAxERZNKcqoMMlQIZIBBUpQGD11QRLRRUdfDWQwsQ
+Pu364zUYBQoSLGKcK+CmDXw1t8w5R64A1bxd7AL8S3iwOLqIEyvOaBhw48KOkTyeHBlyOKuLM2tW
+I7gyZcufUXQG7bk06RYLQgAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/cn_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaOpnJqfkpmZmZecjpGWiY6ThYeN
+f4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1RaS1FXSP4BAgAAAAAAAAAAAAAAACH5BAUU
+ABsALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0reu7jwF7wJywSYQqBcslsOp/QqHRK
+rVqvTN5xyDV2t94wUfsFGA61wCEg7hIMA7C8XExeH5hHBNNgXioPFRdMDQV+AhEXGhcLTA8HThWA
+ExiQC4oXEVibnAJkQg4PLA4nFwYlBhcmDhgqFiUWMBcSKRYGKg6wc228nz+xNQMRLREDIg4MqiKv
+I8AlCQ8UAWwABxA3zrvaXXZUBw9Qj03fSo8HE0qD6U0VAuTlkFDqnfRVvjgGpDUOaCgHuQIc3EpA
+ihmAbAYyPHCg4cSDUzSy0dlWx4tEVMNQFDt2CwCEBQazSUBwIN8CEgWui0WkyDJINyoPwC2RKeCC
+ISUF5olTImjJPALtlrRKF09Jn3X1kkq5p2NPKAwMVFCQ8EBCNoEqVB50CJHEQ1gVHEDA0PViS15I
+2pxJswZtkDdxJsp1C+Cl0rt48yZlerbvXL90+f4dTBfwWbt6Eyte3ERwYcKGIdNxHPmx5cpIGGve
+nJiy5MufMbdQEAIAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/si_u.gif
+
+R0lGODlhfQAWAMQAAL7Dt7vAtLm+sba7r7a7rrK3qq2ypqmuoaOpnJqfkpmZmZecjpGWiY6ThYeN
+f4WKfH6DdnyBc3d8bnV7bGtxY2pwYWJoWWFnWFheT1FXSP4BAgAAAAAAAAAAAAAAAAAAACH5BAUU
+ABoALAAAAAB9ABYAAAX/ICAAIjmW6KmabNqubgzPby3b9B0rQu//wKBwSCwaj8ik8qfQ5Z64qFMK
+nVqrsCaWyr12t95wlac8EJbotHq91HItD0xiZHgAEpeMJUK6+C8QKQYOIwwFLBYjDhgWGBUGJRaS
+ewAIdiIWYl+bAG5OgyMDdJcCmScXOKAAi4iKByQEGAYjiS0XAQATkGC8nGRIGEAHDz4XP8ZDwz0P
+DcgCyA8HPgQVPc7TFQcRbNxCnlADGAMldSamfX+BKqoOBwYStK6tAJOUIg4ZvZph31IEFqIAlMOE
+ApUMdq8S2KnVbl6tFPj0SezyKwm1HsqsHSOSMVqPCAugSfMR7FkQatq6f6n00U9GggC4KIwyVzAV
+oVWvRFBgmFOABATxbOHStW+ijpYzwj0AOJPgqXSCbjYsAUERo0YIIk3iY4mm0a8tKh4ZubKsWbNI
+OYEtqrbtvrRs466d6/aE2LN48+oVAJeu3LqA4/YN7LcwYSl39yperGbw38eGIdtwHLny4ccKQgAA
+Ow==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/adaptivedigital_header.gif
+
+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
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image003.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image005.gif
+
+R0lGODlh2gFjAXcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACwAAAAA2gFjAYQAAAD/
+//8BAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMB
+AgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMC/4yPqcvtD6OctNqLs968+w+G4kiW
+5omm6sq27gvH8kzX9o3n+s73/g8MCofEovGITCqXzKbzCY1Kp9Sq9YrNarfcrvcLDovH5LL5jE6r
+1+y2+w2Py+f0uv2Oz+v3/L7/DxgoOEhYaHiImKi4yNjo+AgZKTlJWWl5iZmpucnZ6fkJGio6Slpq
+eoqaqrrK2ur6ChsrO0tba3uLm6u7y9vr+wscLDxMXGx8jJysvMzc7PwMHS09TV3tA4CNgL0NAqC0
+De6dIW7tR35w7pF+dL5O4V6Ol60d4g0/dF9hH9+3j14fIF8QgRP88dMjjpzCeQa4NQx4zyAShdoY
+2oMn8eAdiv8BH3qk6JABx4ng/j0MqWCkRjscE5as6LGBSiMzIcZcUHOlnHYdeybIlvBBuG8i/eUb
+qpPlz6A/TR5tOhGnU5lQk85Zx7Sny5spq9KUatNnV3pW4yCNGZLb2YoWUQ58iQ4o3LhtGZa9izev
+3r18+/r9Cziw4MHdwhk+jDix4sWMG88lrIkgE8mQIVEmWnnT5SSbbTn+DDq023GiS5tmXKIzO2Oq
+Y7QG+5XEayKzY9Vucdtk7BG5gfRu9TvF7+C4U7Nd6/Uaa3zqosoeyzWuEOKqqJsY7pw3dKHTl3fv
+YF1F+OiUx4swX6rdWvS6YW9Qr/YxWQcR6VNVZxE6/H92G7L/f+fdfFuh8BR424mV0mz9JUfPaagt
+lZZTWWllw0UOXphYI1iR9V9G8713oEC11YfRBy9tiJZ+7f0XAYsXuHgGih8RiOCH0bUYInfjUFUi
+fjbWWONIPNEAoz4abhdUf3ZdBKF99dElgUMyfiRXkjwBlSCQJ4lkXHIeCvnjC0UCyIiMC6Wo1Txg
+wtYjhlgZptuZaQ4oIZc3mjdlVnpyWCEPY5Lx5pJTDeoTcnHa6V95auWIplgTDnljoe4BRNdZUlYJ
+U587/DnGlIc62ihBhpIXZU3pXPnho6kWNZqWBl7BKY5lHojmkGve116uO3rZ4Kqgrjipp91gESsE
+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
+6I7vCI/xKI/zSI/YWAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image006.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image007.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image008.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image009.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image010.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image011.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image012.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image013.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image014.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image015.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image016.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image017.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image018.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image019.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image020.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image021.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image022.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image023.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image024.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image025.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image026.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image027.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image028.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image029.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image030.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image031.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image032.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image033.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///F:/NetDisk/GoogleDisk/HWMobileDesign/Platforms/platform2/ptWCDMA/HSDPAspec/6250spec/WCDMA%20Audio/Audio%20doc/audio%20doc/Echo%20Cancelation%20Subjective%20Testing%20Demo.files/image034.gif
+
+R0lGODlhKAAkAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAo
+ACQAhIGBgQAAAAECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwKqjI+py+0Po0yg2omD
+3TVLznnPRnXiQmpHeiJXqJkf84IxgMku2OHxuEPxcD4dKqgYXn7Jle+WHCIpTufTSnwZjNuiabnz
+FrvCrvgK/dXE5DTLTObdvPB56WwLfffGNYzNtPTmBqMSVTcI1bOI1iYIZqUGWIIIiZVi6cjXaKbH
+FbhJo9dGRZp4Gekgk3knpxoGoQRUFSs18Slkc3vr2qKq69vQGyzKSnx8XAAAOw==
+
+------=_NextPart_000_0000_01CA6CFB.CB9437C0--
