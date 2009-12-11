@@ -1,0 +1,44 @@
+ITU-T建议的P．800标准提出了MOS（Mean Objection Score）的方法。即请40 ～ 60 位有代表性的人士来听一段相同的语音样本，然后对该样本经过IP电话传输后的语音质量进行投票评价。随着语音因语言、年龄、性别的变化，得分亦被赋予不同的意义。这是一种纯粹主观的定性测量。ITU-T在非常宽的听觉范围内，选取不同年龄、性别和语言组别的相同得分，作出语音质量的判别标准：5为最佳； 4为好（4.5～4.0 ＝可收费电信级） ；3为中级（4.0～3.5＝可通话通信级） ；2为较差 （3.5～2.5＝可建立连接级） ；1为差。很显然，MOS方法是一种模糊的评估方法，其测试结果很难对IP电话系统的改进和不同IP电话设备之间性能的比较作出有实际意义的判别。因此ITU-T在标准建议P．861中又提出了PSQM（Perceptual Speech Quality Measurement）方法。 
+
+　　PSQM仍以MOS的5个级别作为客观标准，所不同的是其对每一个级别都以百分比的方式作出了“差”/“最差”（%PoW，Percent Poor or Worse）和“好／最好”（%GoB，Percent Good or Better）的进一步描述。根据P．861提出的PSQM方法，IP电话的测试开始摆脱原始的人类主观评估，而开始使用计算机产生的波形文件（Wave File），通过比较其通过IP电话网传输前后的变化计算出PSQM中相对应的级别及好坏程度。 
+
+　　我们测试的设备的MOS值，都在4.5以上；而PSQM值均在0.2到0.3之间。这都达到了电信级设备的评价标准。因为我们的测试环境相对单纯，在今后我们还会开展真实环境测试，让大家更加了解VoIP的发展和现状。 
+
+　　对语音质量的判断，还有很多参数可以体现。包括网络延时、语音延迟、回声、RTP数据祯丢失率等等。参测的所有近20台设备都交出了令人满意的答卷。 
+人满意的答卷。 
+
+The frequency dependent coupling loss between the receiving port and the sending port of a terminal due to acoustical coupling, electrical coupling and seismic coupling. 
+Weighted Terminal Coupling Loss Test 
+    This test measures how much of the receive signal that is sent to the telephone is re-transmitted to the network. Because of delay inherent in VoIP telephony, a re-transmitted signal will be heard at the far end telephone as an echo. The echo frequency response is measured and the weighted terminal coupling loss (TCLw) is calculated as a measure of the echo from the telephone. 
+
+Handset specification
+
+GSM specifiers did not ignore acoustic echo when developing standards. As with any echo, the closer to the source it is dealt with, the more effective the solution. For acoustic echo, the source is the handset. Two aspects of handset specifications deal with echo loss performance characteristics. One is the handset performance, and the other is testing specifications. The weighted terminal coupling loss (TCLw) value of 46dB, derived from ITU's Recommendation ITU-T G.131 ("Control of Talker Echo"), is the specified performance characteristic for handset acoustic echo return loss (AERL). This level, as evidenced by continuing discussions among the European Telecommunicatons Standards Institute's (ETSI) special mobile groups, is not universally accepted as being correct or indicative of operational conditions across the voice bandwidth.
+What does "echo level" mean? 
+During a voice chat session, the microphone of the person listening can pick up the voice from the speakers and send it back to the person who is speaking. This is called far-end echo. 
+The echo level indicated in the Echo test of the wizard indicates the percentage of far-end echo. In other words, it refers to the percentage of sound from the speakers that's picked up by the microphone. In general, a lower echo level indicates better sound quality. 
+
+You can reduce the level of far-end echo by: 
+
+Reducing the playback volume level slider (on the echo test page) or the speaker volume (usually a knob on the speakers). 
+Using a headset with integral microphone instead of separate stick microphone and speakers. 
+Moving the speaker and microphone as far away from each other as possible.  
+The following are four of the most common loudness characteristics used in VoIP circuit planning: 
+
+?Send Loudness Rating (SLR)—the loudness between the Mouth Reference Point (MRP) and the electrical interface. 
+
+?Receive Loudness Rating (RLR)—the loudness between the electrical interface and the Ear Reference Point (ERP). 
+
+?Overall Loudness Rating (OLR)—the total loudness loss between the MRP and ERP in a connection. OLR is calculated as follows: 
+
+OLR = SLRtalker + [sum]attenuations + RLRlistener 
+
+?Talker Echo Loudness Rating (TELR)—the loudness loss between the talker's mouth and the ear via the echo path. TELR is calculated as follows: 
+
+TELR(A) = SLR(A) + loss in top path +ERL(B) or TCLw(B) + loss in bottom path + RLR(A), where ERL is the echo return loss of the hybrid or echo canceler, and TCLw is the weighted terminal coupling loss of the digital phone set. 
+sending loudness rating (SLR)
+
+--------------------------------------------------------------------------------
+sending loudness rating (SLR): The ratio in dB of the sound pressure produced by a speaker to the voltage produced by a telephone and loop as defined by ITU-T Recommendation P.79. [T1.255-1997] 
+
+

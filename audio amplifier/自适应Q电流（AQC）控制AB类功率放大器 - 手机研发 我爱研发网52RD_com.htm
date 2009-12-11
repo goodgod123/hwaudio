@@ -1,0 +1,650 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0043)http://www.52rd.com/S_Txt/2005_6/Txt805.htm -->
+<HTML><HEAD><TITLE>自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD.com</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="手机硬件,研发,基带,射频,baseband design,rf design,手机,Mobile" 
+name=keywords><LINK 
+href="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/font.css" type=text/css 
+rel=stylesheet>
+<META content="MSHTML 5.50.4522.1800" name=GENERATOR></HEAD>
+<BODY bgColor=#4f4f6b leftMargin=0 topMargin=0>
+<SCRIPT src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/head.js"></SCRIPT>
+
+<TABLE cellSpacing=0 cellPadding=0 width=768 align=center bgColor=#ffffff 
+border=0>
+  <TBODY>
+  <TR>
+    <TD width=4 
+    background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_left.gif"></TD>
+    <TD>
+      <TABLE height=3 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=3></TD>
+          <TD vAlign=top height="100%">
+            <TABLE height="100%" cellSpacing=1 cellPadding=0 width="100%" 
+            bgColor=#ccccd4 border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top bgColor=#ffffff>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" bgColor=#e6e8f0 
+                        height=24>　<A href="http://www.52rd.com/">首页 </A>&gt; <A 
+                        href="http://www.52rd.com/Tech">技术文章</A> &gt; <A 
+                        href="http://www.52rd.com/Tech/Txt51.htm">基带</A> &gt; 
+                      正文</TD></TR>
+                    <TR>
+                      <TD>
+                        <TABLE class=content cellSpacing=0 cellPadding=0 
+                        width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=fonttitle_content style="PADDING-TOP: 5px" 
+                            align=middle bgColor=#ffffff 
+                              height=50>自适应Q电流（AQC）控制AB类功率放大器</TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD 
+                      background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                      height=1></TD></TR>
+                    <TR>
+                      <TD align=middle height=24><A 
+                        href="http://www.52rd.com/">http://www.52rd.com/</A>　2005年6月21日　我爱研发网　EEtimes　阅读
+                        <SCRIPT language=JavaScript 
+                        src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/hits.htm"></SCRIPT>
+                        次</TD></TR>
+                    <TR>
+                      <TD height=8></TD></TR>
+                    <TR>
+                      <TD class=fontbig vAlign=top>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD width=10></TD>
+                            <TD 
+                              class=fontbig><BR><BR>如今的蜂窝电话、PDA、MP3播放机等便携式设备都需要配备功率放大器来驱动微型扬声器，且要求功率放大器待机功耗低、效率高、失真小，这些放大器可利用传统的线性和开关技术来实现。开关放大器即所谓的D类放大器，能同时满足低功耗(高效率)和高音质的要求，但却需要对输出进行滤波处理，因而增加了运行成本。本文介绍自适应Q电流控制AB类功率放大器，可同时满足对谐波失真、功耗以及成本的要求。 
+
+                              <P></P>
+                              <P>为了将大型输出器件硬开关所产生不必要的能量辐射降至最低，设计者必须对PCB布局结构和噪声滤波器的设计做出额外考虑，这些因素使得设计人员倾向采用线性放大器而非D类放大器。在多种模拟放大器中，AB类能满足一定的总谐波失真(THD)和低功耗要求，一般来说，失真减少与输出Q电流(IQ)成正比，但功率效率却与其成反比。为了满足这两方面的要求，自适应Q电流控制(AQC)技术便应运而生。 
+                              </P>
+                              <P>AQC电路能按照输出失真的程度来提高IQ，当没有信号输入或感应不到输出失真时，它不会激活。采用AQC电路设计的功放在以1W功率驱动8Ω负载时，整个音频带宽的THD低于0.3%，且静态下仅消耗2.6mA电流。 
+                              <BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/images20056219591097224.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><I>
+                              <DIV align=center>图1--AQC单元</DIV></I>
+                              <P></P>
+                              <P>在5V电压下向8Ω负载输出1W功率时，需要采用如图1所示的桥接负载结构(BTL)。AMP1输出显示了由于输出阶段推挽作用所产生的失真，这种失真会被AMP2放大，而AMP2的输出则会受到失真和其自身产生的失真所影响，将使THD性能降低6dB。不过有一个非常简单的方法，即引进BTL驱动电路并改动很少元件就可改变放大器的整体增益。 
+                              </P>
+                              <P>图1所示的AQC单元由以下几部分组成：微分放大器、整流器、增益级(AQ)和跨导(GMQ)。其中，失真值可通过比较两个放大器的输入而获得。通常+/-输入利用负反馈和高回路增益进行虚拟短接，然而随着输出失真增加，输入会渐渐偏离虚拟接地点，这样失真就会在输入端出现。为了产生IQ控制信号(IAQC)，无论所检测的失真极性为何，都要使用整流器。经整流的信号将通过AQ放大，最后由GMQ生成IAQC，并流入AB类放大器的Q偏置电路。 
+                              <BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/images20056211001036590.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><I>
+                              <DIV align=center>图2--一个AQC AB类放大器</DIV></I>
+                              <P></P>
+                              <P>图2是一个AQC 
+                              AB类放大器，失真电压被转换为源自MD1和MD2的电流ID1和ID2。如果ID1&gt;ID2，MD17-18将被激活；反之，MD15-16则被激活。因此IAQC信号与所检测到的失真绝对值成正比，AQ增益由MD16和MD15(MD18和MD17)的比值决定。最后，IAQC信号被传输到MB2和MB5，这样输出失真就可自适应地控制经过MPO和MNO的IQ电流。 
+                              <BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/images20056211003961287.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><I>
+                              <DIV align=center>图3</DIV></I>
+                              <P></P>
+                              <P>在MPO和MNO之前插入的两个缓冲器也可提升THD性能，这是由于缓冲器不但能增加放大器带宽，还可提高门驱动能力。图3显示了在温度Tj=120℃、8Ω负载、4Vpp 
+                              20kHz信号和5V电源情况下，使用BSIM3V3模型 
+                              得出的瞬变模拟结果。如不采用AQC，PGATE和NGATE信号分别在MPO与MNO截止态保持恒压；反之如应用AQC，每个信号都会由失真量控制。 
+                              <BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/0401B_DC_S12F4.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><I>
+                              <DIV align=center>图4--高输出电压时的等效电路</DIV></I>
+                              <P></P>
+                              <P>当AQC被激活时，将严重影响放大器的稳定性，特别是在两个输出晶体管中只有一个被激活的情况下，更容易引发稳定性问题。图4所示为高输出电压时的等效电路。AQC模拟为一个单极点系统，在P点有一个极点。由于采用了AQC，整个传递函数具有额外两个极点和两个零点，包括一个次要极点(P2)。两个极点分别被置于P点和gmB3/CM2(P3)点，其中gmB3为MB3的跨导。就零点来 
+                              说，两个零点分别被置于P点下方和P3点上方。如果AQC能达到以下两个条件，两个零点即会成为RHP零点，严重影响稳定性。这两个条件是：AQC具有负增益(MD15-16接通)；AQC的整体增益频率fuAQC高于主放大器的增益频率。在本设计中，利用Cc1和Cc2使AQC的带宽小于放大器的带宽，因而保证了稳定性。 
+                              </P>
+                              <P>在功率应用中，由于DMOS技术采用垂直器件结构(如垂直NPN双极晶体管)，因此具有很多优点，包括高电流驱动能力、低Rds导通电阻和高击穿电压。然而，DMOS技术需要额外的加工工艺和更高制造成本，故推荐使用传统0.8微米10V 
+                              BiCMOS工艺经济制造的方案。为了增加输出动态范围，传输高电流的金属线设计得越大越好。此外在VDD、接地端和输出引脚处均采用双焊接线。一般来说，输出晶体管的DCGS比最低设计要求大一些，这是因为DCGS电阻器具有限流电阻器的作用，可提高抗ESD性能。本设计并没有采用增大DCGS的方式，而是在漏极与源极电路大量采用二层金属走线，以减小电阻的集中，因此本芯片能在HBM和MM模型下分别通过±2.5kV和±300V 
+                              ESD电压测试。 </P>
+                              <P><BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/0401B_DC_S12F5.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>
+                              <TABLE cellSpacing=1 cellPadding=0 align=center 
+                              bgColor=#cccccc border=0>
+                                <TBODY>
+                                <TR>
+                                <TD>
+                                <TABLE cellSpacing=2 cellPadding=0 
+                                bgColor=#ffffff border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IMG hspace=2 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/images20056211021478625.jpg" 
+                                vspace=2 
+                                border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>为了说明本设计如何在高频下有效消除交叉干扰失真，图5显示了在8Ω负载、4Vpp和50kHz条件下的输出波形。尽管这里的放大器是针对音频应用，其结果仍表明采用AQC技术来实现低THD高频放大器(如xDSL线路驱动电路)是可行的。图6所示分别为THD+N及功率耗散与输出功率的对比，在频率为20kHz及输出为1W时，THD+N仅为0.3%，1kHz和20kHz信号的功率耗散仅有细微的差别，这是由于AQC在20kHz时才被激活，故功率耗散仅增加了0.03W。 
+                              </P>
+                              <P>作者: Jong-Tae Hwang <BR>Han-Seung Lee 
+                              <BR>飞兆半导体公司功率产品部 <BR></P></TD>
+                            <TD width=10></TD></TR>
+                          <TR>
+                            <TD></TD>
+                            <TD class=fontbig>
+                              <TABLE height=8 cellSpacing=0 cellPadding=0 
+                              width="100%" border=0>
+                                <TBODY>
+                                <TR>
+                                <TD></TD></TR></TBODY></TABLE>
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                              border=0>
+                                <TBODY>
+                                <TR>
+                                <TD class=fontbig width=130><A 
+                                title=功能强大的网络收藏夹，一秒钟操作就可以轻松实现保存带来的价值、分享带来的快乐 
+                                href="javascript:d=document;t=d.selection?(d.selection.type!='None'?d.selection.createRange().text:''):(d.getSelection?d.getSelection():'');void(keyit=window.open('http://www.365key.com/storeit.aspx?t='+escape(d.title)+'&amp;u='+escape(d.location.href)+'&amp;c='+escape(t),'keyit','scrollbars=no,width=475,height=575,left=75,top=20,status=no,resizable=yes'));keyit.focus();">收藏此页到<FONT 
+                                color=darkorchid>365K<FONT 
+                                color=#57c200>e</FONT>y</FONT></A></TD>
+                                <TD style="PADDING-TOP: 5px">
+                                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                                border=0>
+                                <TBODY>
+                                <TR>
+                                <TD><IFRAME border=0 name=searchvip 
+                                marginWidth=0 frameSpacing=0 marginHeight=0 
+                                src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/tpl5.jsp" 
+                                frameBorder=0 width=300 scrolling=no 
+                                height=22></IFRAME></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+                            <TD></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD vAlign=top 
+              align=middle></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+          <TD width=3></TD>
+          <TD vAlign=top width=165>
+            <TABLE height="100%" cellSpacing=1 cellPadding=0 width="100%" 
+            bgColor=#ccccd4 border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top bgColor=#ffffff>
+                  <TABLE class=font cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" vAlign=top bgColor=#e6e8f0 
+                      height=24>·文章导航 NAVIGATION</TD></TR>
+                    <TR>
+                      <TD vAlign=top bgColor=#ffffff>
+                        <TABLE cellSpacing=3 cellPadding=0 width="84%" 
+                        align=center border=0>
+                          <TBODY>
+                          <TR>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt43.htm">新闻</A></TD>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt56.htm">新知</A></TD></TR>
+                          <TR>
+                            <TD width=67>·<A 
+                              href="http://www.52rd.com/Tech/Txt49.htm">射频</A></TD>
+                            <TD width=61>·<A 
+                              href="http://www.52rd.com/Tech/Txt51.htm">基带</A></TD></TR>
+                          <TR>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt52.htm">软件</A></TD>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt53.htm">结构</A></TD></TR>
+                          <TR>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt54.htm">系统</A></TD>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt55.htm">多媒体</A></TD></TR>
+                          <TR>
+                            <TD>·<A 
+                              href="http://www.52rd.com/Tech/Txt44.htm">精选 
+                            </A></TD>
+                            <TD></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" bgColor=#e6e8f0 
+                        height=24>·相关搜索 SEARCH</TD></TR>
+                    <TR>
+                      <TD vAlign=top bgColor=#ffffff>
+                        <TABLE cellSpacing=0 cellPadding=0 align=center 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD><IFRAME border=0 name=searchbar align=center 
+                              marginWidth=0 frameSpacing=0 marginHeight=0 
+                              src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/CAAB4XI7.jsp" 
+                              frameBorder=0 width=158 scrolling=no 
+                              height=122></IFRAME></TD></TR></TBODY></TABLE>
+                        <TABLE cellSpacing=5 cellPadding=0 width="87%" 
+                        align=center border=0>
+                          <FORM action=http://www.alldatasheet.com/view.jsp 
+                          method=post target=_blank>
+                          <TBODY>
+                          <TR>
+                            <TD colSpan=2><INPUT 
+                              style="WIDTH: 130px; HEIGHT: 21px" 
+                              name=sSearchword2></TD></TR>
+                          <TR>
+                            <TD width="42%"><SELECT name=select2> <OPTION 
+                                value=1 selected>Datasheet</OPTION> <OPTION 
+                                value=2>52rd</OPTION> <OPTION 
+                                value=3>Baidu</OPTION> <OPTION 
+                                value=4>Google</OPTION></SELECT> <INPUT 
+                              type=hidden name=sChk2></TD>
+                            <TD width="6%"><INPUT type=submit value=搜索 name=action22></TD></TR></FORM></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" vAlign=top bgColor=#e6e8f0 
+                      height=24>·热门文章 TOP10</TD></TR>
+                    <TR>
+                      <TD vAlign=top bgColor=#ffffff>
+                        <TABLE cellSpacing=5 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=top>
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                              border=0>
+                                <TBODY>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A title=手机充电器电路原理图 
+                                target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt664.htm">手机充电器电路原理图 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A title=年终奖金不足月工资80% 
+                                target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt596.htm" 
+                                华为,你诚信何在?>年终奖金不足月工资80% 华为,你诚信何在? </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=年轻工程师的高手进阶之道！！（part1） target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt807.htm">年轻工程师的高手进阶之道！！（part1） 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=36岁的台湾RD工程师生活甘苦谈、辛酸史 target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt699.htm">36岁的台湾RD工程师生活甘苦谈、辛酸史 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=GSM/WCDMA双模多频手机的RF设计[多图] target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt678.htm">GSM/WCDMA双模多频手机的RF设计[多图] 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=手机设计工程师必睹--新西游记和设计bible target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt749.htm">手机设计工程师必睹--新西游记和设计bible 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=什么是SAR以及手机天线SAR的测试 target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt767.htm">什么是SAR以及手机天线SAR的测试 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A 
+                                title=射频EDA仿真软件介绍（包括算法，原理） target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt793.htm">射频EDA仿真软件介绍（包括算法，原理） 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A title=关于手机基带研发的讨论 
+                                target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt855.htm">关于手机基带研发的讨论 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR>
+                                <TR>
+                                <TD 
+                                onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                                style="PADDING-TOP: 4px" 
+                                onmouseout="this.style.backgroundColor='#ffffff'" 
+                                vAlign=top height=26>·<A title=39岁的研究生谈规划你的工程师生涯 
+                                target=_blank 
+                                href="http://www.52rd.com/S_Txt/2005_6/Txt650.htm">39岁的研究生谈规划你的工程师生涯 
+                                </A></TD></TR>
+                                <TR>
+                                <TD 
+                                background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                                height=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+          <TD width=3></TD></TR></TBODY></TABLE></TD>
+    <TD width=4 
+    background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_right.gif"></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=768 align=center bgColor=#ffffff 
+border=0>
+  <TBODY>
+  <TR>
+    <TD width=4 
+    background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_left.gif"></TD>
+    <TD>
+      <TABLE cellSpacing=3 cellPadding=0 width="100%" border=0 frame=vsides>
+        <TBODY>
+        <TR>
+          <TD vAlign=top bgColor=#ffffff>
+            <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#ccccd4 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle bgColor=#ffffff>
+                  <SCRIPT type=text/javascript><!--
+google_ad_client = "pub-3720468914994936";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
+google_color_link = "0000CC";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></SCRIPT>
+
+                  <SCRIPT 
+                  src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/show_ads.js" 
+                  type=text/javascript>
+</SCRIPT>
+                </TD></TR></TBODY></TABLE></TD>
+          <TD vAlign=top width=165 height="100%" rowSpan=4>
+            <TABLE height="100%" cellSpacing=1 cellPadding=0 width="100%" 
+            bgColor=#ccccd4 border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top bgColor=#ffffff>
+                  <TABLE class=font height="100%" cellSpacing=0 cellPadding=0 
+                  width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" vAlign=top bgColor=#e6e8f0 
+                      height=24>·特别推荐 RECOMMEND </TD></TR>
+                    <TR>
+                      <TD vAlign=top align=middle 
+                    bgColor=#ffffff></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top bgColor=#ffffff>
+            <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#ccccd4 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD bgColor=#ffffff>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" bgColor=#e6e8f0 
+                        height=24>·相关文章 CORRELATION</TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=5 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=top>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD 
+                            onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                            style="PADDING-TOP: 4px" 
+                            onmouseout="this.style.backgroundColor='#ffffff'" 
+                            vAlign=top height=26>·<A title=低噪声前置放大器电路的设计方法 
+                              target=_blank 
+                              href="http://www.52rd.com/S_Txt/2005_6/Txt818.htm">低噪声前置放大器电路的设计方法 
+                              </A>[6-22]</TD></TR>
+                          <TR>
+                            <TD 
+                            background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                            height=1></TD></TR>
+                          <TR>
+                            <TD 
+                            onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                            style="PADDING-TOP: 4px" 
+                            onmouseout="this.style.backgroundColor='#ffffff'" 
+                            vAlign=top height=26>·<A title=Linear 
+                              target=_blank 
+                              href="http://www.52rd.com/S_Txt/2005_6/Txt828.htm" 
+                              (一) Power Amplifier GSM Of Control>Linear Power 
+                              Control Of GSM Amplifier Power (一) 
+</A>[6-23]</TD></TR>
+                          <TR>
+                            <TD 
+                            background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                            height=1></TD></TR>
+                          <TR>
+                            <TD 
+                            onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                            style="PADDING-TOP: 4px" 
+                            onmouseout="this.style.backgroundColor='#ffffff'" 
+                            vAlign=top height=26>·<A title=D target=_blank 
+                              href="http://www.52rd.com/S_Txt/2005_4/Txt363.htm" 
+                              类提高音频放大器的效率>D 类提高音频放大器的效率 </A>[4-20]</TD></TR>
+                          <TR>
+                            <TD 
+                            background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                            height=1></TD></TR>
+                          <TR>
+                            <TD 
+                            onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                            style="PADDING-TOP: 4px" 
+                            onmouseout="this.style.backgroundColor='#ffffff'" 
+                            vAlign=top height=26>·<A 
+                              title=自适应Q电流（AQC）控制AB类功率放大器 target=_blank 
+                              href="http://www.52rd.com/S_Txt/2005_6/Txt805.htm">自适应Q电流（AQC）控制AB类功率放大器 
+                              </A>[6-21]</TD></TR>
+                          <TR>
+                            <TD 
+                            background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                            height=1></TD></TR>
+                          <TR>
+                            <TD 
+                            onmouseover="this.style.backgroundColor='#f6f6f6'" 
+                            style="PADDING-TOP: 4px" 
+                            onmouseout="this.style.backgroundColor='#ffffff'" 
+                            vAlign=top height=26>·<A title=安捷伦W-CDMA功率放大器 
+                              target=_blank 
+                              href="http://www.52rd.com/S_Txt/2005_7/Txt1208.htm" 
+                              待机电流业界最小>安捷伦W-CDMA功率放大器 待机电流业界最小 </A>[7-25]</TD></TR>
+                          <TR>
+                            <TD 
+                            background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_dot.gif" 
+                            height=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top bgColor=#ffffff>
+            <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#ccccd4 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD bgColor=#ffffff>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 4px" bgColor=#e6e8f0 
+                        height=24>·评　　论 COMMENT</TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=10></TD>
+                      <TD>
+                        <TABLE cellSpacing=5 cellPadding=0 width="100%" 
+                        align=center border=0>
+                          <FORM name=form action=../comment.asp method=post 
+                          target=_blank>
+                          <TBODY>
+                          <TR>
+                            <TD>
+                              <SCRIPT language=JavaScript 
+                              src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/comment.htm"></SCRIPT>
+                            </TD></TR>
+                          <TR>
+                            <TD height=3></TD></TR>
+                          <TR>
+                            <TD>
+                              <SCRIPT language=JavaScript 
+                              src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/_Cookies_Username.htm"></SCRIPT>
+                              　　共有评论<FONT color=#ff0000>
+                              <SCRIPT language=JavaScript 
+                              src="D:\my doc\自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files\comment(1).htm"></SCRIPT>
+                              </FONT>篇　<A target=_blank 
+                              href="http://www.52rd.com/S_Txt/comment.asp?ID=805&amp;method=4">查看所有评论</A></TD></TR>
+                          <TR>
+                            <TD height=3></TD></TR>
+                          <TR>
+                            <TD><TEXTAREA id=textarea4 onblur="if (this.value =='') this.value='您的评论'" onmouseover=this.focus() style="OVERFLOW-Y: auto" onfocus=this.select() onclick="if (this.value=='您的评论') this.value=''" name=content rows=3 cols=50>您的评论</TEXTAREA></TD></TR>
+                          <TR>
+                            <TD>
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+                              border=0>
+                                <TBODY>
+                                <TR>
+                                <TD style="PADDING-TOP: 5px"><INPUT type=submit value=发表评论 name=Submit> 
+                                </TD></TR></TBODY></TABLE></TD></TR><INPUT type=hidden 
+                          value=1 name=method> <INPUT type=hidden value=805 
+                          name=id> </FORM></TBODY></TABLE></TD>
+                      <TD 
+        width=10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top bgColor=#f6f6f6>
+            <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#ccccd4 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD bgColor=#e6e8f0>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD style="PADDING-TOP: 2px" align=right width="98%"><A 
+                        target=_blank 
+                        href="http://www.52rd.com/S_Txt/sendmail.asp?title=H_title&amp;content=http://www.HaoChi123.com/S_txt/H_1time/Txt805.htm&amp;flag=5">推荐朋友</A>　<A 
+                        target=_blank 
+                        href="http://www.52rd.com/S_Txt/print.asp?id=805&amp;flag=5">打印本页</A>　<A 
+                        href="http://www.52rd.com/S_Txt/2005_6/Txt805.htm#">返回页首</A>　<A 
+                        href="javascript:window.close()">关闭窗口</A></TD>
+                      <TD 
+          width="2%"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+    <TD width=4 
+    background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_right.gif"></TD></TR></TBODY></TABLE></TD><TD 
+background="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/bg_right.gif" 
+width="4"></TD></TR></TABLE>
+<SCRIPT src="自适应Q电流（AQC）控制AB类功率放大器 - 手机研发 我爱研发网52RD_com_files/foot.js"></SCRIPT>
+</BODY></HTML>
